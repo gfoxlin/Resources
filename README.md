@@ -1,3 +1,3 @@
 # Resources
 for translate
-creat by misl
+creat by mislakd   ad'
