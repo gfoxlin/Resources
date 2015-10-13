@@ -1,387 +1,333 @@
-  <?xml version="1.0" encoding="utf-8" ?> 
- <resources>
-  <string name="app_name">Sunlighten</string> 
-  <string name="dummy_button">Dummy Button</string> 
-  <string name="dummy_content">DUMMY\nCONTENT</string> 
- <!--  unit 
-  --> 
-  <string name="unit_mins">%1$d minutes</string> 
-  <string name="unit_time_mins">mins</string> 
-  <string name="unit_time_min">min</string> 
-  <string name="unit_time_hr">hr</string> 
-  <string name="unit_heart_rate">bmp</string> 
- <!--  common 
-  --> 
-  <string name="sinnper_no_selected">por favor seleccione</string> 
-  <string name="dialog_title">advertencia</string> 
-  <string name="yes">sí</string> 
-  <string name="no">no</string> 
-  <string name="remaining">restante</string> 
- <!--  shutdown 
-  --> 
-  <string name="shutdown_title">Por favor seleccione:</string> 
-  <string name="shutdown_btn">cierre</string> 
-  <string name="reboot_btn">reiniciar</string> 
-  <string name="cancel_btn">cancelar</string> 
-  <string name="shutdown_desc">Seleccione uno para apagar los dispositivos.</string> 
- <!--  shutdown dialog
-  --> 
-  <string name="shutdown_loading_title">Cargando ...</string> 
-  <string name="shutdown_loading_desc">Por favor, espere ...</string> 
-- <!--  home 
-  --> 
-  <string name="home_bt_null">sin votaciones\ndispositivo \nencontrado</string> 
-  <string name="home_bt_seaching">Seaching ...</string> 
-  <string name="home_bt_connecting">Conexión con el dispositivo。</string> 
-  <string name="home_bt_connected">Conectado el dispositivo:\nNAME:%1$s。</string> 
-  <string name="home_bt_disconnected">Desconectado el dispositivo.</string> 
-  <string name="home_cancel_program_desc">En este momento está ejecutando %1$s programa\n¿Qué quieres hacer el programa?</string> 
-  <string name="home_cancel_program_end">final</string> 
-  <string name="home_cancel_program_continue">continuar</string> 
-  <string name="lock_info">El panel de control está bloqueado. Por favor, consulte el manual del propietario para desbloquear.</string> 
-  <string name="lock_locked">El panel de control está bloqueado.</string> 
-  <string name="lock_unlocked">El panel de control está desbloqueado.</string> 
-- <!--  loading activity 
-  --> 
-  <string name="loading_sunlighten_date">Cargando los datos de sunlighten. . .</string> 
-  <string name="loading_user_date">Cargando los datos de los usuarios . . .</string> 
-  <string name="loading_history_date">Cargando los datos de la historia de sunlighten . . .</string> 
-  <string name="loading_preset_date">Cargando los datos de los programas preestablecidos de sunlighten . . .</string> 
-  <string name="loading_date_over">Cargando datos más . . .</string> 
-- <!--  s1 activity 
-  --> 
-  <string name="s1_congratulations">¡Felicidades!</string> 
-  <string name="s1_congratulations_deixis">Introduzca su información de configuración inicial de abajo para empezar a utilizar su sauna.</string> 
-- <string name="s1_setwireless">
-  <b>Configurar</b> 
-  <i>su red inalámbrica\nconexión (opcional)</i> 
-  </string>
-- <!--  s2 vactivity 
-  --> 
-- <string name="s2_settings">
-  <b>Ajustes</b> 
-  </string>
-- <!--     <string name="s2_item1_t1">Unit Select:</string>
-    <string name="s2_item2_t1">Language Select:</string>
-    <string name="s2_item3_t1">Usage Select:</string>
-    <string name="s2_item4_t1">Serial Number:</string>
-    <string name="s2_item1_t2">Select units of measure for your control panel</string>
-    <string name="s2_item2_t2">Select language for your control panel</string>
-    <string name="s2_item3_t2">Select where your product will be used</string> 
-  --> 
-  <string name="s2_item4_t2">Enter your serial number - found on the back-right of the floor panel.</string> 
-- <!--  <string name="s2_unit_US">US(˚F)</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunlighten</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    
+    <!-- unit -->
+    <string name="unit_mins">%1$d procès-verbal</string>
+    <string name="unit_time_mins">mins</string>
+    <string name="unit_time_min">min</string>
+    <string name="unit_time_hr">hr</string>
+    <string name="unit_heart_rate">bmp</string>
+    
+    <!-- common -->
+    <string name="sinnper_no_selected">please select</string>
+    <string name="dialog_title">Warning</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="remaining">remaining</string>
+    
+    <!-- shutdown -->
+    <string name="shutdown_title">S\'il vous plaît sélectionnez:</string>
+    <string name="shutdown_btn">Fermeture</string>
+    <string name="reboot_btn">Reboot</string>
+    <string name="cancel_btn">Annuler</string>
+    <string name="shutdown_desc">Sélectionnez l\'une à l\'arrêt des périphériques.</string>
+    <!-- shutdown dialog-->
+    <string name="shutdown_loading_title">Chargement ...</string>
+    <string name="shutdown_loading_desc">S\'il vous plaît, attendez ...</string>
+    <!-- home -->
+    <string name="home_bt_null">aucun rétroaction\ndevice trouvé</string>
+    <string name="home_bt_seaching">Seaching ...</string>
+    <string name="home_bt_connecting">Connexion à l\'appareil。</string>
+    <string name="home_bt_connected">Connecté l\'appareil:\nNAME:%1$s。</string>
+    <string name="home_bt_disconnected">Déconnecté le dispositif.</string>
+    <string name="home_cancel_program_desc">Vous exécutez actuellement %1$s programme \ nNouveautés voulez-vous le programme à faire?</string>
+    <string name="home_cancel_program_end">fin</string>
+    <string name="home_cancel_program_continue">continuer</string>
+    <string name="lock_info">Le panneau de commande est verrouillé. S\'il vous plaît se référer au manuel du propriétaire pour déverrouiller.</string>
+    <string name="lock_locked">Le panneau de commande est verrouillé.</string>
+   	<string name="lock_unlocked">Le panneau de commande est verrouillé.</string>
+   	<!-- loading activity -->
+   	<string name="loading_sunlighten_date">Le chargement des données de Sunlighten. . .</string>
+   	<string name="loading_user_date">Le chargement des données des utilisateurs. . .</string>
+   	<string name="loading_history_date">Le chargement des données de Sunlighten d\'histoire. . .</string>
+   	<string name="loading_preset_date">Le chargement des données des programmes préétablis de Sunlighten. . .</string>
+   	<string name="loading_date_over">Chargement des données plus. . .</string>
+   		
+   	<!-- s1 activity --> 
+   	<string name="s1_congratulations">Félicitations!</string>
+    <string name="s1_congratulations_deixis">S\'il vous plaît entrez vos informations de configuration initiale ci-dessous pour commencer à utiliser votre sauna.</string>
+    <string name="s1_setwireless"><b>Set-up</b><i> votre réseau sans fil\nconnection (facultatif)</i></string>
+   	
+   	<!-- s2 vactivity --> 
+    <string name="s2_settings"><b>paramètres</b></string>
+    <!--
+    <string name="s2_item1_t1">Sélectionner l\'unité:</string>
+    <string name="s2_item2_t1">Langue Sélectionner:</string>
+    <string name="s2_item3_t1">Utilisation Sélectionner:</string>
+    <string name="s2_item4_t1">Numéro de série:</string>
+    <string name="s2_item1_t2">Sélectionnez les unités de mesure pour votre panneau de contrôle</string>
+    <string name="s2_item2_t2">Sélectionnez la langue de votre panneau de contrôle</string>
+    <string name="s2_item3_t2">Sélectionnez où votre produit sera utilisé</string> -->
+    <string name="s2_item4_t2">Saisissez votre numéro de série - situé à l\'arrière droit du panneau de plancher.</string>
+    <!-- <string name="s2_unit_US">US(˚F)</string>
     <string name="s2_unit_Metric">Metric(˚C)</string>
     <string name="s2_language_english">English</string>
     <string name="s2_language_spanish">Spanish</string>
     <string name="s2_language_french">French</string>
     <string name="s2_language_dutch">Dutch</string>
-    <string name="s2_language_mandarin">Simplified CH</string>
-    <string name="s2_usage_residential">Residential</string>
-    <string name="s2_usage_commercial">Commercial</string> 
-  --> 
-  <string name="error_serialnum">error de número de serie</string> 
-  <string name="s4_congratulations_deixis">Introduzca su información de configuración inicial de abajo para empezar a utilizar su sauna.</string> 
- <string name="s4_download">
-  <b>descargar</b> 
-  <i>último sistema \nactualización (opcional)</i> 
-  </string>
- <!--  s5 
-  --> 
-  <string name="s5_diaplaymode">Modo de visualización</string> 
-- <string name="s5_standard">
-  <b>estándar</b> 
-  </string>
-- <string name="s5_simplified">
-  <b>simplificado</b> 
-  </string>
-- <!--  s6 
-  --> 
-  <string name="s6_congratulations_deixis">Introduzca su información de configuración inicial de abajo para empezar a utilizar su sauna.</string> 
-- <string name="s6_viewtutorial">
-  <b>vista</b> 
-  Tutorial 
-  </string>
-- <!--  home time mode 
-  --> 
-  <string name="run_mode_quick">Quick Modo</string> 
-  <string name="run_mode_cust">Modo personalizado</string> 
-  <string name="run_mode_pre">Pre Calefacción</string> 
-- <!--  home temp 
-  --> 
-  <string name="temp_current_txt">corriente:</string> 
-  <string name="temp_set_txt">Set:</string> 
-- <!--  button 
-  --> 
-  <string name="btn_set">Set</string> 
-  <string name="btn_next">siguiente</string> 
-  <string name="btn_start">comienzo</string> 
-  <string name="btn_accept">aceptar</string> 
-  <string name="btn_finished">terminado</string> 
-  <string name="btn_yes">sí</string> 
-  <string name="btn_back">espalda</string> 
-  <string name="btn_delete">borrar</string> 
-  <string name="btn_edit">editar</string> 
-  <string name="btn_close">cerca</string> 
-- <!--  tab 
-  --> 
-  <string name="tab_menu_names_01">ayudar</string> 
-  <string name="tab_menu_names_02">salud\nprogramas</string> 
-  <string name="tab_menu_names_03">salud\nrastreo</string> 
-  <string name="tab_menu_names_04">horario\nsesión de sauna</string> 
-  <string name="tab_menu_names_05">ajustar\ncalentadores</string> 
-  <string name="tab_menu_names_06">ajustarnluces</string> 
-  <string name="tab_menu_names_07">ajustes/\nconfigurar</string> 
-  <string name="tab_menu_names_08">medios de comunicación</string> 
-  <string name="tab_menu_names_09">casa</string> 
-  <string name="tab_menu_names_close">Cerrar menú</string> 
-  <string name="tab_menu_names_open">menú abierto</string> 
-- <!--  title 
-  --> 
-  <string name="title_create_user">crear usuario</string> 
-  <string name="title_user">usuario :</string> 
-  <string name="title_running">Correr :</string> 
-  <string name="status_none">ninguno</string> 
-- <!--  lights 
-  --> 
-  <string name="lights_ext_title">las luces exteriores:</string> 
-  <string name="lights_int_title">Luces interiores:</string> 
-  <string name="lights_on">en</string> 
-  <string name="lights_off">apagado</string> 
-- <!--  applications 
-  --> 
-  <string name="apps_desc">Pulse el icono a la derecha para iniciar una aplicación</string> 
-  <string name="apps_desc_note">Nota: Algunas de las aplicaciones son servicios de suscripción que requieren el pago por el uso completo. Sunlighten no tiene el control de cualquiera de estas aplicaciones.</string> 
-  <string name="apps_browser">navegador</string> 
-  <string name="apps_netflix">Netflix</string> 
-  <string name="apps_facebook">Facebook</string> 
-  <string name="apps_wechat">WeChat</string> 
-  <string name="apps_dvd_player">DVD Player</string> 
-  <string name="apps_pandora">Pandora</string> 
-  <string name="apps_mxplayer">MxPlayer</string> 
-  <string name="apps_twitter">Twitter</string> 
-  <string name="apps_national">Nat Geo</string> 
-  <string name="apps_google_plus">Google+</string> 
-  <string name="apps_youtube">Youtube</string> 
-  <string name="apps_hulu">Hulu</string> 
-  <string name="apps_noinstalled">Esta aplicación no está instalada</string> 
-- <!--  settings 
-  --> 
-- <string name="settings_update_title">
-  <b>descargar</b> 
-  lo último\nactualización de software 
-  </string>
-  <string name="settings_update_newest">actualización disponible:</string> 
-  <string name="settings_update_current">Versión Actual:</string> 
-  <string name="setting_latest_version">Ultima Versión::</string> 
-  <string name="setting_version_newest">Ninguna actualización disponible.</string> 
-- <string name="settings_wireless_title">
-  <b>Configurar</b> 
-  su red inalámbrica\nconexión 
-  </string>
-- <string name="settings_tutorial_title">
-  <b>reloj</b> 
-  tutorial básico 
-  </string>
-  <string name="settings_tutorial_desc">Presione aquí para ver un tutorial que muestra el \ nfunctionality básica de su panel de control de la sauna</string> 
-  <string name="settings_screen_brightness_title">Seleccione Brillo de pantalla:</string> 
-  <string name="settings_language_title">idioma Select:</string> 
-  <string name="settings_language_desc">Seleccionar idioma para su panel de control</string> 
-  <string name="settings_unit_title">Unidad de Selección:</string> 
-  <string name="settings_unit_desc">Seleccionar unidades de medida para su panel de control</string> 
-  <string name="settings_mode_title">Modo de uso, elija:</string> 
-  <string name="settings_mode_desc">Elija entre los modos residenciales y comerciales</string> 
-  <string name="settings_display_mode_title">Seleccione el modo de visualización:</string> 
-  <string name="settings_display_mode_desc">Elija entre la pantalla estándar con las mayoría de las características o la versión simplificada</string> 
-  <string name="settings_serial_title">Número de serie:</string> 
-  <string name="settings_serial_desc">Número actual displayed.Press serie en campo de formulario para editar</string> 
-  <string name="settings_reset_title">Número actual displayed.Press serie en campo de formulario para editar:</string> 
-  <string name="settings_reset_desc">Restablecer el panel de control para la configuración de fábrica</string> 
-  <string name="set_serial_hint">número de serie</string> 
-- <!--  Setting update dialog 
-  --> 
-  <string name="update_title">nueva versión</string> 
-  <string name="update_desc">Detectar la versión más reciente %1$s, Descárgalo ahora?</string> 
-  <string name="update_download">descargar</string> 
-  <string name="update_downloading">descarga...</string> 
-- <!--  reboot 
-  --> 
-  <string name="reset_simple_title">Reinicia el dispositivo</string> 
-  <string name="reset_simple_ak">Continúe con Reboot System?</string> 
-  <string name="reset_software_title">Restablece todo el software, pero mantiene los datos de usuario</string> 
-  <string name="reset_software_ak">Continuar con restablecimiento del sistema?</string> 
-  <string name="reset_all_title">Restablece todo el software y borra todos los datos de usuario</string> 
-  <string name="reset_all_ak">Continuar con restablecimiento completo?</string> 
-- <!--  help 
-  --> 
-  <string name="help_menu_01">uso básico</string> 
-  <string name="help_menu_02">horario</string> 
-  <string name="help_menu_03">Ajustes</string> 
-  <string name="help_menu_04">Solución de problemas</string> 
-  <string name="help_menu_05">diagnóstico</string> 
-- <string name="help_menu_06">
-  <b>Ver Todo</b> 
-  </string>
-- <!--  help diagnostic 
-  --> 
-  <string name="diagnostic_title">Por favor ingrese los datos de usuario a continuación para crear el perfil y ayudar a proporcionar datos exactos biofeedback.</string> 
-  <string name="diagnostic_level">Nivel Diagonostic:</string> 
-  <string name="diagnostic_check">Buscar actualizaciones de sistema:</string> 
-  <string name="diagnostic_checking">de cheques...</string> 
-  <string name="diagnostic_spinner_level">rápido</string> 
-  <string name="diagnostic_spinner_check">sí</string> 
-  <string name="diagnostic_result">Exploración completa Sauna:</string> 
-- <!--  program 
-  --> 
-  <string name="pro_menu_01">Desintoxicación</string> 
-  <string name="pro_menu_02">relajación</string> 
-  <string name="pro_menu_03">Antienvejecimiento</string> 
-  <string name="pro_menu_04">cardiovascular</string> 
-  <string name="pro_menu_05">Pérdida De Peso</string> 
-  <string name="pro_menu_06">Alivio del Dolor</string> 
-  <string name="pro_menu_07">costumbre</string> 
-  <string name="pro_menu_08">Delete Program</string> 
-  <string name="pro_menu_09">Edición de programa</string> 
-  <string name="pro_menu_10">crear programa</string> 
-  <string name="pro_detox_desc_01">Medio y Lejano inicio de infrarrojos a una alta intensidad para aumentar\nla temperatura del cuerpos núcleo</string> 
-  <string name="pro_detox_desc_02">\na continuación, se reduce a un mínimo, el nivel de intensidad cómoda\n</string> 
-  <string name="pro_detox_desc_03">El conbination MIR y FIR mejora el flujo de acceso vascular a\nllegar a toxinas a nivel celular.</string> 
-  <string name="pro_relax_desc_01">Lejos, a medio y del infrarrojo cercano inducen la relajación profunda, ya que\naliviar la tensión muscular a una intensidad baja, cómodo.</string> 
-  <string name="pro_relax_desc_02">\npromoción de la reducción global de estrés con el uso regular.\n</string> 
-  <string name="pro_anti_desc_01">Un bajo nivel, la intensidad constante de lejos y de cerca de infrarrojos\npenetra en los tejidos para ayudar con diversos problemas de la piel.</string> 
-  <string name="pro_anti_desc_02">LEDs NIR mejorar el tono general de la piel, elasticidad y firmeza\n\t promover beneficios contra el envejecimiento.</string> 
-  <string name="pro_cardio_desc_01">Una mezcla de arranques cerca, medio y lejano Infraed a una alta intensidad\npara aumentar la frecuencia cardíaca y el gasto cardíaco.</string> 
-  <string name="pro_cardio_desc_02">\nluego baja para mantener la frecuencia cardíaca\n</string> 
-  <string name="pro_cardio_desc_03">\nAumenta la circulación para promover la presión arterial saludable\n</string> 
-  <string name="pro_weight_desc_01">Mediados y el inicio del infrarrojo lejano a una alta intensidad para estimular\ntque el sistema cardiovascular</string> 
-  <string name="pro_weight_desc_02">\na continuación, se reduce a un nivel medio.\n</string> 
-  <string name="pro_weight_desc_03">A medida que el cuerpo trabaja para enfriarse por sí mismo, hay un aumento en el corazón\ntasa, el gasto cardíaco y la tasa metabólica similar a ejercer</string> 
-  <string name="pro_pain_desc_01">Una mezcla de infrarrojo medio y lejano proporciona un alivio natural del dolor\n mediante la reducción de la inflamación y la hinchazón。</string> 
-  <string name="pro_pain_desc_02">mientras que los LED infrarrojos cerca de penetrar en el tejido a\npromover la reparación celular</string> 
-  <string name="pro_pain_desc_03">\nen un medio, intensidad constante.\n</string> 
-  <string name="pro_infrared_01">infrarrojo lejano</string> 
-  <string name="pro_infrared_02">Mediados de infrarrojos</string> 
-  <string name="pro_infrared_03">infrarrojo Cercano</string> 
-  <string name="pro_start_btn_desc">prensa\nbotón para\ncomenzar\nprograma</string> 
-  <string name="pro_desc_suffix01">Medio y Lejano Infrarrojo.</string> 
-  <string name="pro_desc_suffix02">Cercano y Lejano Infrarrojo.</string> 
-  <string name="pro_desc_suffix03">Cerca, Medio y Lejano Infrarrojo.</string> 
-- <!--  program pre-heat 
-  --> 
-  <string name="pre_title">Sunlighten Pre-Calefacción . . .</string> 
-  <string name="pre_time_des">%1$s minutos hasta apagado automático . . .</string> 
-  <string name="pre_temp_des">Temperatura actual de cabina: %1$s°</string> 
-  <string name="pre_start_program_des">¿Quieres iniciar el %1$s programa?</string> 
-  <string name="pre_start_program_note">Nota: Pre-calentamiento es de preferencia personal. Los programas de bienestar se basan en longitudes de onda infrarrojas y la temperatura de la superficie de cada calentador individual, no la temperatura ambiente.</string> 
-- <!--  program create or edit 
-  --> 
-  <string name="pro_name">Nombre del programa:</string> 
-  <string name="pro_max_time">60 mins(60 min max)</string> 
-  <string name="pro_cor_desc">Seleccione la duración de su período de sesiones, a continuación, establezca los calentadores en su sauna. A continuación, puede añadir segmentos con diferentes configuraciones de calentador.</string> 
-  <string name="pro_segment_label">Longitud del Segmento%1$d:</string> 
-  <string name="pro_segment_heater_label">Calentadores Set</string> 
-  <string name="pro_add_segment_label">Añadir Segmento</string> 
-  <string name="pro_add_segment_max_error">El tiempo total de no más de 60 minutos。</string> 
-- <!--  program delete 
-  --> 
-  <string name="pro_delete_desc">Seleccione el programa que desea eliminar. Nota: Los programas pueden ser readquiridos encontrándolo en el \'Descargar Programa\' sección..</string> 
-  <string name="pro_delete_program_desc">Una mezcla de calor a lo largo y mediano infrarrojo diseñado para aumentar su temperatura corporal.</string> 
-  <string name="pro_delete_program_confir">¿Seguro que quieres eliminar el %1$s ?</string> 
-- <!--  helth tracking 
-  --> 
-  <string name="track_menu_01">Seleccionar usuario</string> 
-  <string name="track_menu_02">Crear nuevo Usuario</string> 
-  <string name="track_menu_03">Editar usuario</string> 
-  <string name="track_menu_04">Eliminar usuario</string> 
-  <string name="track_menu_05">Live Data Display</string> 
-  <string name="track_menu_06">seguimiento de datos</string> 
-- <!--  helth tracking select user 
-  --> 
-  <string name="select_user_name_label">Seleccione Usuario actual:</string> 
-  <string name="select_user_continue_guest_label">Continuar sin\nperfil del usuario</string> 
-  <string name="select_user_create_label">crear nuevo\nperfil del usuario</string> 
-- <!--  helth tracking edit user 
-  --> 
-  <string name="edit_user_desc">Seleccionar elemento para editar usuario, seleccione el botón para borrar el usuario.</string> 
-- <!--  helth tracking create user 
-  --> 
-  <string name="user_label">Nombre de Usuario:</string> 
-  <string name="user_guest_label">o Continuar\ncomo Invitado</string> 
-  <string name="user_desc">Ingrese información de usuario a continuación para crear el perfil y proporcionar datos exactos biofeedback.</string> 
-  <string name="user_gender_label">género:</string> 
-  <string name="user_gender_male">masculino</string> 
-  <string name="user_gender_female">femenino</string> 
-  <string name="user_birth_label">Fecha de nacimiento:</string> 
-  <string name="user_weight_label">peso:</string> 
-  <string name="user_weight_unit_label">lbs.</string> 
-  <string name="user_height_label">altura:</string> 
-  <string name="user_height_prelabel">ft.</string> 
-  <string name="user_height_suflabel">ln.</string> 
-- <!--  helth tracking data tracking 
-  --> 
-  <string name="data_title_lable">Ver estadísticas sauna para los últimos 30 días siguientes.</string> 
-  <string name="data_total_lable">Total sauna use:</string> 
-  <string name="data_average_lable">Duración media sesión:</string> 
-- <!--  Schedule 
-  --> 
-  <string name="schedule_overtime_error">No se puede programar una sesión en el pasado.</string> 
-  <string name="schedule_new_notice">Por favor ingrese la información de sesión de sauna a continuación. Recomendamos\npermitiendo al menos 30 minutos de tiempo de precalentamiento.</string> 
-  <string name="set_program_time">Hora de inicio del programa:</string> 
-  <string name="schedule_new_add_days">Añadir / Quitar Días</string> 
-  <string name="schedule_new_select_program">Select Program:</string> 
-  <string name="schedule_new_pre_heat">Establecer Tiempo de precalentamiento:</string> 
-- <!--  Schedule Add Days 
-  --> 
-  <string name="schedule_add_days_title">Seleccione los días que le gustaría programa se ejecute programada.</string> 
-  <string name="schedule_add_days_title_info">Resaltar días de la semana por debajo:</string> 
-  <string name="schedule_add_days_info">(días programados están en verde)</string> 
-  <string name="schedule_add_days_sun">Domingo</string> 
-  <string name="schedule_add_days_mon">Lunes</string> 
-  <string name="schedule_add_days_tues">Martes</string> 
-  <string name="schedule_add_days_wed">Miércoles</string> 
-  <string name="schedule_add_days_thu">Jueves</string> 
-  <string name="schedule_add_days_fri">Viernes</string> 
-  <string name="schedule_add_days_sat">Sábado</string> 
-- <!--  Schedule Edit 
-  --> 
-  <string name="schedule_edit_title">Sesión Seleccionado: \n%1$s - %2$s</string> 
-  <string name="schedule_edit_delete">prensa\nbotón para\nborrar\nprograma</string> 
-  <string name="schedule_edit_exit">prensa\nbotón para\neditar\nexistente\nprograma</string> 
-  <string name="schedule_edit_return">prensa\nbotón para\nvolver a\ncalendario</string> 
-- <!--  Error Message 
-  --> 
-  <string name="e_no_error">No Error!</string> 
-  <string name="e_power_board_no_ack">El panel de control está teniendo problemas para comunicarse con su caja de control de potencia. Por favor, rehacer las conexiones del cable RS-232 en la parte inferior de la caja de la pared y el poder frente. Si el problema persiste, puede comprobar la conexión en la parte posterior del panel de control.</string> 
-- <!--  E1 
-  --> 
-  <string name="e_model">El número de serie que ha introducido durante la configuración de la sauna no coincide con el cuadro de control de potencia instalada. Por favor, introduzca el número de serie correcto para su sauna.</string> 
-- <!--  E2 
-  --> 
-  <string name="e_ac_voltage_240v">La sauna ha adquirido está diseñada uso 220 ~ 240 voltios de electricidad. La tensión que ha suministrado no proporciona tensión suficiente para permitir un funcionamiento correcto. Por favor, haga que su circuito marcada. También puede consultar el manual o consulte el servicio al cliente para más información.</string> 
-- <!--  E3 
-  --> 
-  <string name="e_ac_voltage_120v">La sauna ha adquirido está diseñado para utilizar 120 voltios de electricidad. La tensión que ha suministrado es demasiado alto y puede dañar el sistema. Por favor, haga que su circuito marcada. También puede consultar el manual o consulte el servicio al cliente para más información.</string> 
-- <!--  E3 01 
-  --> 
-  <string name="e_ht_failed">FIR o MIR Calefacción Panel falló (H1 a H13 módulo calentador). El sensor en el panel de la calefacción no está detectando la cálida adecuada de la calefacción durante un periodo de tiempo determinado. Si su sauna es en un ambiente frío un falso positivo puede mostrar. También si usted tiene la tensión que es ligeramente más baja de lo normal el poder de cada calentador puede ser un poco más bajo de lo esperado y también puede causar un falso positivo. Por favor, compruebe las conexiones de los cables del calentador en la parte inferior de cada pared. Si el problema persiste puede consultar su manual del usuario para obtener más información. Usted todavía será capaz de disfrutar de su sauna si aparece este error.</string> 
-- <!--  E4 
-  --> 
-  <string name="e_ntc_failed">Cada pared de su sauna tiene una serie de sensores de temperatura que controlan y regulan la potencia del calentador para optimizar su sesión de sauna. El tiempo de respuesta en el sensor es más lento de lo esperado. Si el problema persiste puede consultar su manual del usuario para obtener más información. Este error sólo cerrar una muy pequeña porción de una de sus calentadores. Usted todavía será capaz de disfrutar de su sauna si aparece este problema.</string> 
-- <!--  E5 
-  --> 
-  <string name="e_ht_control_unit_failed">Su sauna tiene un gran número de circuitos de control del calentador que crean su función dinámica completa. Una de estas unidades no parece estar respondiendo como se esperaba. Su sauna es todavía funcional y usted es libre de seguir utilizándolo. Si desea ayuda para una solución más permanente por favor llame a su representante de servicio al cliente.</string> 
-- <!--  E6 
-  --> 
-  <string name="e_lighting_box_no_ack">Su tablero de control de la iluminación doest no parece estar respondiendo. La causa principal de este problema es una conexión suelta a su casilla de control de iluminación. Por favor, compruebe el conector plano de 4 hilos que se encuentra entre el cuadro principal de control de potencia y el control de la iluminación estilo similar más pequeño a un lado.</string> 
-- <!--  E7 
-  --> 
-- <!--  usb install 
-  --> 
-  <string name="usb_install_now">instalar</string> 
-  <string name="usb_install_info">USB detecta una nueva versión está disponible, ¿le gustaría instalarlo ahora?</string> 
-  <string name="usb_app_version">Versión:</string> 
-  <string name="usb_app_md5">MD5:</string> 
-- <!--  pin code display 
-  --> 
-  <string name="pin_activity">Código Pin:</string> 
-  </resources>
+    <string name="s2_language_mandarin">simplifiéCH</string>
+    <string name="s2_usage_residential">Résidentiel</string>
+    <string name="s2_usage_commercial">Commercial</string> -->
+    <string name="error_serialnum">série erreur de numéro</string>
+    
+    <string name="s4_congratulations_deixis">S\'il vous plaît entrez vos informations de configuration initiale ci-dessous pour commencer à utiliser votre sauna.</string>
+    <string name="s4_download"><b>Télécharger</b><i> dernier système \nupdate (facultatif)</i></string>
+        <!-- s5 -->
+    <string name="s5_diaplaymode">Mode d\'affichage</string>
+    <string name="s5_standard"><b>Standard</b></string>
+    <string name="s5_simplified"><b>Simplifié</b></string>
+        <!-- s6 -->
+    <string name="s6_congratulations_deixis">S\'il vous plaît entrez vos informations de configuration initiale ci-dessous pour commencer à utiliser votre sauna.</string>
+    <string name="s6_viewtutorial"><b>Vue</b> Tutorial</string>
+    
+    <!-- home time mode -->
+    <string name="run_mode_quick">Quick Mode</string>
+    <string name="run_mode_cust">Mode personnalisé</string>
+    <string name="run_mode_pre">chauffage pré</string>
+    <!-- home temp -->
+    <string name="temp_current_txt">Courant:</string>
+    <string name="temp_set_txt">Set:</string>
+    
+    <!-- button -->
+    <string name="btn_set">Set</string>
+    <string name="btn_next">prochaine</string>
+    <string name="btn_start">début</string>
+    <string name="btn_accept">accepter</string>
+    <string name="btn_finished">fini</string>
+    <string name="btn_yes">oui</string>
+    <string name="btn_back">dos</string>
+    <string name="btn_delete">effacer</string>
+    <string name="btn_edit">éditer</string>
+    <string name="btn_close">près</string>
+    <!-- tab -->
+    <string name="tab_menu_names_01">aider</string>
+    <string name="tab_menu_names_02">santé\nprograms</string>
+    <string name="tab_menu_names_03">santé\ntracking</string>
+    <string name="tab_menu_names_04">calendrier\nsauna session</string>
+    <string name="tab_menu_names_05">ajuster\nheaters</string>
+    <string name="tab_menu_names_06">ajuster\nlights</string>
+    <string name="tab_menu_names_07">paramètres/\nset-up</string>
+    <string name="tab_menu_names_08">médias/\napplications</string>
+    <string name="tab_menu_names_09">maison</string>
+    <string name="tab_menu_names_close">Fermer le menu</string>
+    <string name="tab_menu_names_open">ouvrir le menu</string>
+    
+    <!-- title -->
+   <string name="title_create_user">Créer un utilisateur</string>
+   <string name="title_user">Utilisateur:</string>
+   <string name="title_running">Exécution:</string>
+   <string name="status_none">Aucun</string>
+   
+   <!-- lights -->
+   <string name="lights_ext_title">Éclairage extérieur:</string>
+   <string name="lights_int_title">Éclairage intérieur:</string>
+   <string name="lights_on">Sur</string>
+   <string name="lights_off">De</string>
+   
+   <!-- applications -->
+   	<string name="apps_desc">Appuyez sur l\'icône pour le droit de démarrer une application</string>
+   	<string name="apps_desc_note">Remarque: Certaines des applications sont des services d\'abonnement qui exigent un paiement pour l\'utilisation complète. Sunlighten n\'a pas le contrôle de l\'une de ces applications.</string>
+    <string name="apps_browser">Navigateur</string>
+    <string name="apps_netflix">Netflix</string>
+    <string name="apps_facebook">Facebook</string>
+    <string name="apps_wechat">WeChat</string>
+    <string name="apps_dvd_player">DVD Player</string>
+    <string name="apps_pandora">Pandora</string>
+    <string name="apps_mxplayer">MxPlayer</string>
+    <string name="apps_twitter">Twitter</string>
+    <string name="apps_national">National Geographic</string>
+    <string name="apps_google_plus">Google+</string>
+    <string name="apps_youtube">Youtube</string>
+    <string name="apps_hulu">Hulu</string>
+    <string name="apps_noinstalled">Cette application est pas installé</string>  
+    
+    <!-- settings -->
+				    <string name="settings_update_title"><b>Télécharger</b> les dernières\nsoftware mettre à jour</string>
+    <string name="settings_update_newest">Mise à jour disponible:</string>
+    <string name="settings_update_current">Version Actuelle:</string>
+    <string name="setting_latest_version">dernière Version:</string>
+    <string name="setting_version_newest">Aucune mise à jour disponible.</string>
+    <string name="settings_wireless_title"><b>Installer</b> votre réseau sans fil\nconnection</string>
+    <string name="settings_tutorial_title"><b>Suivre</b> didacticiel de base</string>
+    <string name="settings_tutorial_desc">Appuyez ici pour regarder un tutoriel montrant la base\nfunctionality de votre panneau de contrôle de sauna</string>
+    <string name="settings_screen_brightness_title">Sélectionnez luminosité de l\'écran:</string>
+    <string name="settings_language_title">Langue Sélectionner:</string>
+    <string name="settings_language_desc">Sélectionnez la langue de votre panneau de contrôle</string>
+    <string name="settings_unit_title">Sélectionner l\'unité:</string>
+    <string name="settings_unit_desc">Sélectionnez les unités de mesure pour votre panneau de contrôle</string>
+    <string name="settings_mode_title">Choisissez le mode d\'utilisation:</string>
+    <string name="settings_mode_desc">Choisissez entre les modes résidentiels et commerciaux</string>
+    <string name="settings_display_mode_title">Choisissez le mode d\'affichage:</string>
+    <string name="settings_display_mode_desc">Choisissez de l\'affichage standard avec la plupart des fonctionnalités ou la version simplifiée</string>
+    <string name="settings_serial_title">Numéro de série:</string>
+    <string name="settings_serial_desc">Actuel numéro de série displayed.Press en champ de formulaire pour récupérer</string>
+    <string name="settings_reset_title">Réinitialisation du système:</string>
+    <string name="settings_reset_desc">Enlever vous contrôlez panneau aux réglages d\'usine</string>
+    <string name="set_serial_hint">numéro de série</string>
+    <!-- Setting update dialog -->
+    <string name="update_title">nouvelle version</string>
+    <string name="update_desc">Détecter la dernière version %1$s, Téléchargez-le maintenant?</string>
+    <string name="update_download">télécharger</string>
+    <string name="update_downloading">le téléchargement ...</string>
+    
+    <!-- reboot -->
+    <string name="reset_simple_title">Redémarre le dispositif</string>
+    <string name="reset_simple_ak">Continuer avec le redémarrage du système?</string>
+    <string name="reset_software_title">Remet tous les logiciels, mais conserve les données de l\'utilisateur</string>
+    <string name="reset_software_ak">Continuer avec réinitialisation du système?</string>
+    <string name="reset_all_title">Remet tous les logiciels et efface toutes les données de l\'utilisateur</string>
+    <string name="reset_all_ak">Continuer avec Reset complet?</string>
+    
+    <!-- help -->
+    <string name="help_menu_01">utilisation de base</string>
+    <string name="help_menu_02">calendrier</string>
+    <string name="help_menu_03">paramètres</string>
+    <string name="help_menu_04">dépannage</string>
+    <string name="help_menu_05">diagnostique</string>
+    <string name="help_menu_06"><b>Tout Voir</b></string>
+    <!-- help diagnostic -->
+    <string name="diagnostic_title">S\'il vous plaît entrer des données de l\'utilisateur ci-dessous pour créer un profil et aider à fournir des données précises de biofeedback.</string>
+    <string name="diagnostic_level">Niveau diagonostic:</string>
+    <string name="diagnostic_check">Vérifier les mises à jour du système:</string>
+    <string name="diagnostic_checking">Vérification ...</string>
+    <string name="diagnostic_spinner_level">rapide</string>
+    <string name="diagnostic_spinner_check">oui</string>
+    <string name="diagnostic_result">Sauna balayage complet:</string>
+    
+    <!-- program -->
+    <string name="pro_menu_01">Perte de poids</string>
+    <string name="pro_menu_02">cardiovasculaire</string>
+    <string name="pro_menu_03">désintoxication</string>
+    <string name="pro_menu_04">Soulagement De La Douleur</string>
+    <string name="pro_menu_05">détente</string>
+    <string name="pro_menu_06">Anti-Âge</string>
+    <string name="pro_menu_07">coutume</string>
+    <string name="pro_menu_08">supprimer Programme</string>
+    <string name="pro_menu_09">edit Program</string>
+    <string name="pro_menu_10">Créez Programme</string>
+    <string name="pro_detox_desc_01">Mid et Extrême début infrarouge à une intensité élevée pour augmenter \ nle corps \ \'s température centrale</string>
+    <string name="pro_detox_desc_02">\nthen réduit à un niveau de faible intensité, confortable\n</string>
+    <string name="pro_detox_desc_03">Le conbination MIR et FIR améliore le débit d\'accès vasculaire à \ toxines Nreach au niveau cellulaire.</string>
+    <string name="pro_relax_desc_01">Loin, infrarouge moyen et à proximité à induire la relaxation profonde comme ils \ tension musculaire au nrelieve, une intensité confortable faible.</string>
+    <string name="pro_relax_desc_02">\npromoting réduction de stress global avec une utilisation régulière.\n</string>
+    <string name="pro_anti_desc_01">Un niveau d\'intensité faible, constante de loin et proche infrarouge tissu de \ npenetrates pour aider avec divers problèmes de peau.</string>
+    <string name="pro_anti_desc_02">LED NIR améliorer le tonus général de la peau, l\'élasticité et la fermeté \n\t la promotion des avantages anti-âge.</string>
+    <string name="pro_cardio_desc_01">Un mélange de démarrages près, milieu et loin infraed à une intensité élevée\nla fréquence cardiaque et du débit cardiaque toincrease.</string>
+    <string name="pro_cardio_desc_02">\ntpuis diminue pour soutenir le rythme cardiaque\n</string>
+    <string name="pro_cardio_desc_03">\nCirculation augmente à promouvoir une bonne tension artérielle\n</string>
+    <string name="pro_weight_desc_01">Mid et début de l\'infrarouge lointain à une intensité élevée pour stimuler\nle système cardio-vasculaire</string>
+    <string name="pro_weight_desc_02">\npuis réduit à un niveau moyen.\n</string>
+    <string name="pro_weight_desc_03">Comme le corps fonctionne de se refroidir, il ya une augmentation de cœur\ntaux, le débit cardiaque et le taux métabolique similaire à exercer</string>
+    <string name="pro_pain_desc_01">Un mélange infrarouge moyen et loin fournit douleur physique soulagement \ n en réduisant l\'inflammation et l\'enflure。</string>
+    <string name="pro_pain_desc_02">tout près de LED infrarouges pénètrent le tissu à \ réparation cellulaire npromote</string>
+    <string name="pro_pain_desc_03">\nat un support, une intensité constante.\n</string>
+    <string name="pro_infrared_01">infrarouge lointain</string>
+    <string name="pro_infrared_02">Mid infrarouge</string>
+    <string name="pro_infrared_03">Near  infrarouge</string>
+    <string name="pro_start_btn_desc">presse\nbutton à\ncommencer\nprogram</string>
+    <string name="pro_desc_suffix01">Mid et l\'infrarouge lointain.</string>
+    <string name="pro_desc_suffix02">Proche et infrarouge lointain.</string>
+    <string name="pro_desc_suffix03">Proche, Moyen et Extrême-infrarouge.</string>
+    
+    <!-- program pre-heat -->
+    <string name="pre_title">Sunlighten Pré-chauffage. . .</string>
+    <string name="pre_time_des">%1$s minutes jusqu\'à ce que l\'arrêt automatique. ..</string>
+    <string name="pre_temp_des">Cabin actuel Temp: %1$s°</string>
+    <string name="pre_start_program_des">Avez-vous commencé à fonctionner %1$s programme?</string>
+    <string name="pre_start_program_note">Remarque: pré-chauffage est de préférence personnelle. Les programmes de bien-être sont basés sur les longueurs d\'onde infrarouges et la température de surface de chaque élément chauffant individuel, et non la température ambiante.</string>
+    
+    <!-- program create or edit -->
+    <string name="pro_name">Nom du programme:</string>
+    <string name="pro_max_time">60 mins(60 min max)</string>
+    <string name="pro_cor_desc">Sélectionnez la durée de votre session, puis définissez les appareils de chauffage dans votre sauna. Vous pouvez ensuite ajouter des segments avec des configurations de chauffage différentes.</string>
+    <string name="pro_segment_label">Longueur du segment %1$d:</string>
+    <string name="pro_segment_heater_label">Set chauffe</string>
+    <string name="pro_add_segment_label">Ajouter Segment</string>
+    <string name="pro_add_segment_max_error">Le temps total ne dépassant pas 60 minutes。 </string>
+    <!-- program delete -->
+    <string name="pro_delete_desc">Sélectionnez le programme à supprimer. Remarque: Les programmes peuvent être acquis de nouveau par le trouver dans le \'Télécharger le programme «section.</string>
+    <string name="pro_delete_program_desc">Un mélange de chaleur et de loin le moyen infrarouge conçu pour augmenter votre température corporelle.</string>
+    <string name="pro_delete_program_confir">Êtes-vous sûr de vouloir supprimer la  %1$s ?</string>
+    
+    <!-- helth tracking -->
+    <string name="track_menu_01">Sélectionnez Utilisateur</string>
+    <string name="track_menu_02">Créer un nouvel utilisateur</string>
+    <string name="track_menu_03">Modifier l\'utilisateur</string>
+    <string name="track_menu_04">supprimer l\'utilisateur</string>
+    <string name="track_menu_05">Affichage en direct de données</string>
+    <string name="track_menu_06">Suivi des données</string>
+    
+    <!-- helth tracking select user -->
+    <string name="select_user_name_label">Sélectionnez l\'utilisateur actuel:</string>
+    <string name="select_user_continue_guest_label">Continuer sans \ profil de Nuser</string>
+    <string name="select_user_create_label">Créer un nouveau profil \ de Nuser</string>
+    <!-- helth tracking edit user -->
+    <string name="edit_user_desc">Sélectionnez l\'option pour modifier l\'utilisateur, sélectionnez le bouton pour supprimer l\'utilisateur.</string>
+    
+    <!-- helth tracking create user -->
+    <string name="user_label">Nom d\'utilisateur:</string>
+    <string name="user_guest_label">ou Continuer \ Invité nas</string>
+    <string name="user_desc">Saisissez les informations de l\'utilisateur ci-dessous pour créer un profil et de fournir des données précises de biofeedback.</string>
+    <string name="user_gender_label">sexe:</string>
+    <string name="user_gender_male">mâle</string>
+    <string name="user_gender_female">femelle</string>
+    <string name="user_birth_label">Date de naissance:</string>
+    <string name="user_weight_label">poids:</string>
+    <string name="user_weight_unit_label">lbs.</string>
+    <string name="user_height_label">hauteur:</string>
+    <string name="user_height_prelabel">ft.</string>
+    <string name="user_height_suflabel">ln.</string>
+    
+    <!-- helth tracking data tracking -->
+    <string name="data_title_lable">Voir les statistiques du sauna pour 30 derniers jours ci-dessous.</string>
+    <string name="data_total_lable">L\'utilisation totale de sauna:</string>
+    <string name="data_average_lable">Durée de la session moyenne:</string>
+    
+    <!-- Schedule -->
+    <string name="schedule_overtime_error">Vous ne pouvez pas programmer une session dans le passé.</string>
+    <string name="schedule_new_notice">Please enter sauna session information below. We recommend \nallowing at least 30 minutes of pre-heating time.</string>
+    <string name="set_program_time">Heure de début de programme:</string>
+    <string name="schedule_new_add_days">Ajouter / Supprimer des Jours</string>
+    <string name="schedule_new_select_program">Choisir un programme:</string>
+    <string name="schedule_new_pre_heat">Régler l\'heure de pré-Heat:</string>
+     <!-- Schedule Add Days -->
+    <string name="schedule_add_days_title">Certains jours, vous souhaitez programme à exécuter prévu.</string>
+    <string name="schedule_add_days_title_info">Mettez en surbrillance jours de la semaine ci-dessous:</string>
+    <string name="schedule_add_days_info">(jours programmés sont en vert)</string>
+    <string name="schedule_add_days_sun">dimanche</string>
+    <string name="schedule_add_days_mon">lundi</string>
+    <string name="schedule_add_days_tues">mardi</string>
+    <string name="schedule_add_days_wed">mercredi</string>
+    <string name="schedule_add_days_thu">jeudi</string>
+    <string name="schedule_add_days_fri">vendredi</string>
+    <string name="schedule_add_days_sat">samedi</string>
+    <!-- Schedule Edit -->
+    <string name="schedule_edit_title">Session sélectionnée: \n%1$s - %2$s</string>
+    <string name="schedule_edit_delete">presse\nbutton à\neffacer\nprogram</string>
+    <string name="schedule_edit_exit">presse\nbutton à\nedit\nexistant\nprogram</string>
+    <string name="schedule_edit_return">presse\nbutton à\nretour to\ncalendar</string>
+    
+    <!-- Error Message -->
+    <string name="e_no_error">Aucune erreur!</string>
+    <string name="e_power_board_no_ack">Le panneau de contrôle est d\'avoir du mal à communiquer avec votre boîte de commande de puissance. S\'il vous plaît refaire les connexions du câble RS-232 au fond de votre boîte murale et de puissance devant. Si le problème persiste, vous pouvez vérifier la connexion à l\'arrière du panneau de commande.</string>		<!-- E1 -->
+    <string name="e_model">Le numéro de série que vous avez entré lors de la configuration de votre sauna ne correspond pas à la boîte de commande de puissance qui est installé. S\'il vous plaît entrer le numéro de série correct pour votre sauna. </string>					<!-- E2 -->
+    <string name="e_ac_voltage_240v">Le sauna vous avez acheté est conçu utilisation 220 ~ 240 volts d\'électricité. La tension que vous avez fournies ne fournit pas de tension suffisante pour permettre le bon fonctionnement. S\'il vous plaît avoir votre circuit vérifiée. Vous pouvez également consulter votre manuel ou consultez le service client pour plus d\'informations.</string>				<!-- E3 -->
+    <string name="e_ac_voltage_120v">Le sauna vous avez acheté est conçu pour utiliser 120 volts d\'électricité. La tension que vous avez fournie est trop élevé et risque d\'endommager le système. S\'il vous plaît avoir votre circuit vérifiée. Vous pouvez également consulter votre manuel ou consultez le service client pour plus d\'informations.</string>				<!-- E3 01 -->
+    <string name="e_ht_failed">FIR ou MIR chauffage panneau échoué (H1 à module de chauffe-H13). Le capteur sur votre panneau de chauffage ne détecte pas l\'échauffement approprié de l\'appareil de chauffage sur une période de temps définie. Si votre sauna est dans un environnement froid un faux positif peut montrer. Aussi, si vous avez tension qui est légèrement inférieur à la normale alors le pouvoir de chaque dispositif de chauffage peut être un peu plus faible que prévu et peut également causer un faux positif. S\'il vous plaît vérifier les connexions de vos câbles chauffants au bas de chaque mur. Si le problème persiste, vous pouvez consulter votre manuel de l\'utilisateur pour plus d\'informations. Vous serez toujours en mesure de profiter de votre sauna si cette erreur apparaît.</string>				<!-- E4 -->
+    <string name="e_ntc_failed">Chaque mur de votre sauna a un réseau de capteurs de température qui surveillent et régulent la puissance de chauffe pour optimiser votre séance de sauna. Le temps de réponse de votre capteur est plus lent que prévu. Si le problème persiste, vous pouvez consulter votre manuel de l\'utilisateur pour plus d\'informations. Cette erreur ne fermer une très petite partie de l\'un de vos appareils de chauffage. Vous serez toujours en mesure de profiter de votre sauna si ce problème apparaît.</string>				<!-- E5 -->
+    <string name="e_ht_control_unit_failed">Votre sauna a un grand nombre de circuits de commande de chauffage qui créent sa fonction dynamique complète. Une de ces unités ne semble pas répondre comme prévu. Votre sauna est toujours fonctionnel et vous êtes libre de continuer à l\'utiliser. Si vous désirez de l\'aide pour une solution plus permanente s\'il vous plaît contacter votre représentant de service à la clientèle. </string>	<!-- E6 -->
+    <string name="e_lighting_box_no_ack">Votre carte de contrôle d\'éclairage doest ne semble pas être de répondre. La principale cause de ce problème est une mauvaise connexion à votre boîte de contrôle d\'éclairage. S\'il vous plaît vérifier l\'appartement 4 connecteur de fil qui est entre votre boîte de commande de puissance principal et le contrôle de l\'éclairage de style similaire plus petit sur le côté.</string>	<!-- E7 -->
+
+    <!-- usb install -->
+   	<string name="usb_install_now">installer</string>
+   	<string name="usb_install_info">USB détecté une nouvelle version est disponible, souhaitez-vous l\'installer maintenant?</string>
+   	<string name="usb_app_version">Version:</string>
+   	<string name="usb_app_md5">MD5:</string>
+   	<!-- pin code display -->
+   	<string name="pin_activity">code Pin:</string>
+    
+</resources>
