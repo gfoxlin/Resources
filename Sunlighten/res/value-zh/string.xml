@@ -1,1 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 
+    <string name="app_name">Sunlighten</string>
+    <string name="dummy_button">虚拟按钮</string>
+    <string name="dummy_content">虚拟内容</string>
+    
+    <!-- unit -->
+    <string name="unit_mins">%1$d 分钟</string>
+    <string name="unit_time_mins">分钟</string>
+    <string name="unit_time_min">分钟</string>
+    <string name="unit_time_hr">小时</string>
+    <string name="unit_heart_rate">bmp</string>
+    
+    <!-- common -->
+    <string name="sinnper_no_selected">请选择</string>
+    <string name="dialog_title">警告</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="remaining">剩余的</string>
+    
+    <!-- shutdown -->
+    <string name="shutdown_title">请选择:</string>
+    <string name="shutdown_btn">关机</string>
+    <string name="reboot_btn">重启</string>
+    <string name="cancel_btn">取消</string>
+    <string name="shutdown_desc">选择其中一个关闭设备。</string>
+    <!-- shutdown dialog-->
+    <string name="shutdown_loading_title">下载中...</string>
+    <string name="shutdown_loading_desc">请等待...</string>
+    <!-- home -->
+    <string name="home_bt_null">未发现设备反馈</string>
+    <string name="home_bt_seaching">搜索中...</string>
+    <string name="home_bt_connecting">正在连接至设备。</string>
+    <string name="home_bt_connected">已连接至设备:\nNAME:%1$s。</string>
+    <string name="home_bt_disconnected">未连接至设备.</string>
+    <string name="home_cancel_program_desc">目前在运行的是 %1$s 疗程\n接下来您想要如何处理?</string>
+    <string name="home_cancel_program_end">结束</string>
+    <string name="home_cancel_program_continue">继续</string>
+    <string name="lock_info">控制面板已锁定，请查看使用说明书解锁。</string>
+    <string name="lock_locked">控制面板已锁定。</string>
+   	<string name="lock_unlocked">控制面板已锁定。</string>
+   	<!-- loading activity -->
+   	<string name="loading_sunlighten_date">正在下载系统数据 . . .</string>
+   	<string name="loading_user_date">正在下载用户数据 . . .</string>
+   	<string name="loading_history_date">正在下载使用历史数据 . . .</string>
+   	<string name="loading_preset_date">正在下载当前疗程数据 . . .</string>
+   	<string name="loading_date_over">下载结束 . . .</string>
+   		
+   	<!-- s1 activity --> 
+   	<string name="s1_congratulations">恭喜您！</string>
+    <string name="s1_congratulations_deixis">请在使用桑拿前，在下方完成您的初始设置。</string>
+    <string name="s1_setwireless"><b>Set-up</b><i> 无线设置：连接 (可跳过)</i></string>
+   	
+   	<!-- s2 vactivity --> 
+    <string name="s2_settings"><b>设置</b></string>
+    <!--
+    <string name="s2_item1_t1">选择单位:</string>
+    <string name="s2_item2_t1">选择型号:</string>
+    <string name="s2_item3_t1">选择使用性质:</string>
+    <string name="s2_item4_t1">产品序号:</string>
+    <string name="s2_item1_t2">请选择您的度量单位</string>
+    <string name="s2_item2_t2">请选择您的语言</string>
+    <string name="s2_item3_t2">请选择设备的使用场所</string> -->
+    <string name="s2_item4_t2">输入您的产品序号（位于桑拿房外部的右后方）  </string>
+    <!-- <string name="s2_unit_US">美制(˚F)</string>
+    <string name="s2_unit_Metric">英制(˚C)</string>
+    <string name="s2_language_english">英语</string>
+    <string name="s2_language_spanish">西班牙语</string>
+    <string name="s2_language_french">法语</string>
+    <string name="s2_language_dutch">荷兰语</string>
+    <string name="s2_language_mandarin">简体中文</string>
+    <string name="s2_usage_residential">家用</string>
+    <string name="s2_usage_commercial">商用</string> -->
+    <string name="error_serialnum">场频序号有误</string>
+    
+    <string name="s4_congratulations_deixis">请在使用桑拿前，在下方完成您的初始设置。</string>
+    <string name="s4_download"><b>Download</b><i> 最新系统：更新 (可跳过)</i></string>
+        <!-- s5 -->
+    <string name="s5_diaplaymode">显示模式</string>
+    <string name="s5_standard"><b>标准模式</b></string>
+    <string name="s5_simplified"><b>简化模式</b></string>
+        <!-- s6 -->
+    <string name="s6_congratulations_deixis">请在使用桑拿前，在下方完成您的初始设置。</string>
+    <string name="s6_viewtutorial"><b>查看</b> 使用指南</string>
+    
+    <!-- home time mode -->
+    <string name="run_mode_quick">快速模式</string>
+    <string name="run_mode_cust">自定义模式</string>
+    <string name="run_mode_pre">预热</string>
+    <!-- home temp -->
+    <string name="temp_current_txt">当前:</string>
+    <string name="temp_set_txt">设置:</string>
+    
+    <!-- button -->
+    <string name="btn_set">设置</string>
+    <string name="btn_next">下一步</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_accept">接受</string>
+    <string name="btn_finished">结束</string>
+    <string name="btn_yes">是</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_edit">编辑</string>
+    <string name="btn_close">关闭</string>
+    <!-- tab -->
+    <string name="tab_menu_names_01">帮助</string>
+    <string name="tab_menu_names_02">健康疗程</string>
+    <string name="tab_menu_names_03">健康追踪</string>
+    <string name="tab_menu_names_04">预约桑拿疗程</string>
+    <string name="tab_menu_names_05">调整发热器</string>
+    <string name="tab_menu_names_06">调整灯光</string>
+    <string name="tab_menu_names_07">设定设置</string>
+    <string name="tab_menu_names_08">媒体应用</string>
+    <string name="tab_menu_names_09">主页</string>
+    <string name="tab_menu_names_close">关闭菜单</string>
+    <string name="tab_menu_names_open">打开菜单</string>
+    
+    <!-- title -->
+   <string name="title_create_user">编辑用户</string>
+   <string name="title_user">用户:</string>
+   <string name="title_running">正在进行:</string>
+   <string name="status_none">无</string>
+   
+   <!-- lights -->
+   <string name="lights_ext_title">外部灯光:</string>
+   <string name="lights_int_title">内部灯光:</string>
+   <string name="lights_on">打开</string>
+   <string name="lights_off">关闭</string>
+   
+   <!-- applications -->
+   	<string name="apps_desc">请按右边图标来启动APP</string>
+   	<string name="apps_desc_note">注意：部分APP应用是收费的，桑籁公司对这些APP应用无控制权。</string>
+    <string name="apps_browser">浏览器</string>
+    <string name="apps_netflix">Netflix</string>
+    <string name="apps_facebook">Facebook</string>
+    <string name="apps_wechat">微信</string>
+    <string name="apps_dvd_player">DVD播放器</string>
+    <string name="apps_pandora">Pandora</string>
+    <string name="apps_mxplayer">MxPlayer</string>
+    <string name="apps_twitter">Twitter</string>
+    <string name="apps_national">National</string>
+    <string name="apps_google_plus">Google+</string>
+    <string name="apps_youtube">Youtube</string>
+    <string name="apps_hulu">Hulu</string>
+    <string name="apps_noinstalled">这些APP未安装</string>  
+    
+    <!-- settings -->
+    <string name="settings_update_title"><b>下载</b> 最新软件更新</string>
+    <string name="settings_update_newest">有可更新的版本:</string>
+    <string name="settings_update_current">当前版本:</string>
+    <string name="setting_latest_version">最新版本:</string>
+    <string name="setting_version_newest">无可更新的版本.</string>
+    <string name="settings_wireless_title"><b>Set-up</b> 无线设置：连接</string>
+    <string name="settings_tutorial_title"><b>Watch</b> 基础指南</string>
+    <string name="settings_tutorial_desc">点击此处观看指南：桑拿控制屏幕基础功能</string>
+    <string name="settings_screen_brightness_title">选择屏幕亮度:</string>
+    <string name="settings_language_title">选择语言:</string>
+    <string name="settings_language_desc">选择屏幕显示语言</string>
+    <string name="settings_unit_title">选择单位:</string>
+    <string name="settings_unit_desc">选择屏幕显示单位</string>
+    <string name="settings_mode_title">选择使用环境:</string>
+    <string name="settings_mode_desc">请在家用或商用之间选择</string>
+    <string name="settings_display_mode_title">选择显示模式:</string>
+    <string name="settings_display_mode_desc">请在标准模式（最具特色）或简化模式中选择</string>
+    <string name="settings_serial_title">产品序号:</string>
+    <string name="settings_serial_desc">当前桑拿设备的产品序号，点击空格编辑。</string>
+    <string name="settings_reset_title">系统重启:</string>
+    <string name="settings_reset_desc">将屏幕控制系统恢复至出厂设置</string>
+    <string name="set_serial_hint">产品序号</string>
+    <!-- Setting update dialog -->
+    <string name="update_title">新版本</string>
+    <string name="update_desc">删除最新版本 %1$s, 现在就下载吗?</string>
+    <string name="update_download">下载</string>
+    <string name="update_downloading">正在下载... </string>
+    
+    <!-- reboot -->
+    <string name="reset_simple_title">重启设备</string>
+    <string name="reset_simple_ak">请问继续重设系统吗?</string>
+    <string name="reset_software_title">重设所有软件，但保留用户数据。</string>
+    <string name="reset_software_ak">请问继续重设系统吗？</string>
+    <string name="reset_all_title">重设所有软件，删除所有用户数据。</string>
+    <string name="reset_all_ak">请问全部重设吗?</string>
+    
+    <!-- help -->
+    <string name="help_menu_01">基础应用</string>
+    <string name="help_menu_02">预约</string>
+    <string name="help_menu_03">设置</string>
+    <string name="help_menu_04">故障诊断</string>
+    <string name="help_menu_05">诊断结果</string>
+    <string name="help_menu_06"><b>查看全部</b></string>
+    <!-- help diagnostic -->
+    <string name="diagnostic_title">输入用户数据建立用户文件夹，有助于提供准确的生理反馈数据。</string>
+    <string name="diagnostic_level">诊断水平:</string>
+    <string name="diagnostic_check">检查系统更新:</string>
+    <string name="diagnostic_checking">正在检查...</string>
+    <string name="diagnostic_spinner_level">快速</string>
+    <string name="diagnostic_spinner_check">是</string>
+    <string name="diagnostic_result">桑拿扫描完成:</string>
+    
+    <!-- program -->
+     <!-- old - new
+    01 = 03
+    02 = 05
+    03 = 06
+    04 = 02
+    05 = 01
+    06 = 04 -->
+    <string name="pro_menu_01">瘦身</string>
+    <string name="pro_menu_02">有氧</string>
+    <string name="pro_menu_03">排毒</string>
+    <string name="pro_menu_04">缓解疼痛</string>
+    <string name="pro_menu_05">放松</string>
+    <string name="pro_menu_06">抗衰老</string>
+    <string name="pro_menu_07">自定义</string>
+    <string name="pro_menu_08">删除疗程</string>
+    <string name="pro_menu_09">编辑疗程</string>
+    <string name="pro_menu_10">创建疗程</string>
+    <string name="pro_detox_desc_01">以高强度的中、远红外线开始，来提升用户体内核心温度</string>
+    <string name="pro_detox_desc_02">然后变成较低和舒适的强度</string>
+    <string name="pro_detox_desc_03">中、远红外线结合提高血管血流，从细胞层面排毒。</string>
+    <string name="pro_relax_desc_01">远、中和近红外线的较低和舒适的强度有助于深层放松。</string>
+    <string name="pro_relax_desc_02">长期规律使用更有利于全面减压</string>
+    <string name="pro_anti_desc_01">低强度、舒适的近、远红外线能穿透组织有助于皮肤健康</string>
+    <string name="pro_anti_desc_02">近红外线嫩帮助改善整体肤色、弹性、和韧性，达到抗衰老的效果</string>
+    <string name="pro_cardio_desc_01">高强度的近、中、远红外线组合有助于提高心跳速率、增强心输出量</string>
+    <string name="pro_cardio_desc_02">\n随后减弱，稳定心率\n</string>
+    <string name="pro_cardio_desc_03">\n循环增加，促进血压健康\n</string>
+    <string name="pro_weight_desc_01">高强度的中、远红外线组合刺激心血管系统</string>
+    <string name="pro_weight_desc_02">\n然后降低至中远强度\n</string>
+    <string name="pro_weight_desc_03">当体温回归至正常的过程中，心率、心输出量、代谢速率的变化与运动产生的类似。</string>
+    <string name="pro_pain_desc_01">中远红外线组合有助于减轻炎症和肿胀，从而缓解疼痛。</string>
+    <string name="pro_pain_desc_02">近红外线能穿透组织促进细胞修复</string>
+    <string name="pro_pain_desc_03">\n在持续的中等强度下\n</string>
+    <string name="pro_infrared_01">远红外线</string>
+    <string name="pro_infrared_02">中红外线</string>
+    <string name="pro_infrared_03">近红外线</string>
+    <string name="pro_start_btn_desc">点击按钮开始疗程</string>
+    <string name="pro_desc_suffix01">中和远红外线</string>
+    <string name="pro_desc_suffix02">近和远红外线</string>
+    <string name="pro_desc_suffix03">近、中和远红外线</string>
+    
+    <!-- program pre-heat -->
+    <string name="pre_title">桑籁桑拿正在预热 . . .</string>
+    <string name="pre_time_des">%1$s 分钟后将自动关机. . .</string>
+    <string name="pre_temp_des">房内当前温度: %1$s°</string>
+    <string name="pre_start_program_des">请问您想要开始 %1$s 疗程吗?</string>
+    <string name="pre_start_program_note">提示：预热仅作为个人使用习惯参考。桑拿疗程是基于红外线波长和每片发热器的表面温度，而非环境温度。</string>
+    
+    <!-- program create or edit -->
+    <string name="pro_name">疗程名称:</string>
+    <string name="pro_max_time">60 分(最多60 分钟)</string>
+    <string name="pro_cor_desc">请您先选择疗程时间，在设置桑拿的发热器。您可分段设置发热器的配置。</string>
+    <string name="pro_segment_label">分段时长 %1$d:</string>
+    <string name="pro_segment_heater_label">设置发热器</string>
+    <string name="pro_add_segment_label">增加分段</string>
+    <string name="pro_add_segment_max_error">总时长不能超过60分钟。</string>
+    <!-- program delete -->
+    <string name="pro_delete_desc">选择需要删除的疗程。注意：该疗程可在“下载程序”内重新找到并下载。</string>
+    <string name="pro_delete_program_desc">中、远红外线组合为了提升用户体内核心温度。</string>
+    <string name="pro_delete_program_confir">您确定需要删除  %1$s 吗？</string>
+    
+    <!-- helth tracking -->
+    <string name="track_menu_01">选择用户</string>
+    <string name="track_menu_02">创建新用户</string>
+    <string name="track_menu_03">编辑用户</string>
+    <string name="track_menu_04">删除用户</string>
+    <string name="track_menu_05">Live Data Display</string>
+    <string name="track_menu_06">数据追踪</string>
+    
+    <!-- helth tracking select user -->
+    <string name="select_user_name_label">选择当前用户:</string>
+    <string name="select_user_continue_guest_label">不创建用户，继续使用</string>
+    <string name="select_user_create_label">创建新用户文件</string>
+    <!-- helth tracking edit user -->
+    <string name="edit_user_desc">选择用户并编辑用户，选择按钮并删除用户</string>
+    
+    <!-- helth tracking create user -->
+    <string name="user_label">用户姓名:</string>
+    <string name="user_guest_label">或以客人身份继续</string>
+    <string name="user_desc">输入用户数据建立用户文件夹，有助于提供准确的生理反馈数据。</string>
+    <string name="user_gender_label">性别:</string>
+    <string name="user_gender_male">男</string>
+    <string name="user_gender_female">女</string>
+    <string name="user_birth_label">出生日期:</string>
+    <string name="user_weight_label">体重:</string>
+    <string name="user_weight_unit_label">磅</string>
+    <string name="user_height_label">身高:</string>
+    <string name="user_height_prelabel">英尺</string>
+    <string name="user_height_suflabel">英寸</string>
+    
+    <!-- helth tracking data tracking -->
+    <string name="data_title_lable">查看近30天的桑拿统计</string>
+    <string name="data_total_lable">桑拿总使用时长:</string>
+    <string name="data_average_lable">平均疗程时长:</string>
+    
+    <!-- Schedule -->
+    <string name="schedule_overtime_error">您不能预约过去的时间。</string>
+    <string name="schedule_new_notice">请在下方输入桑拿疗程信息，我们建议至少30分钟的预热时长。</string>
+    <string name="set_program_time">疗程开始时间:</string>
+    <string name="schedule_new_add_days">增加/删除天</string>
+    <string name="schedule_new_select_program">选择疗程:</string>
+    <string name="schedule_new_pre_heat">设置预热时长:</string>
+     <!-- Schedule Add Days -->
+    <string name="schedule_add_days_title">请选择您想要预约的日期。</string>
+    <string name="schedule_add_days_title_info">下方是一周内重点标记的日子:</string>
+    <string name="schedule_add_days_info">(绿色是预约日期)</string>
+    <string name="schedule_add_days_sun">星期日</string>
+    <string name="schedule_add_days_mon">星期一</string>
+    <string name="schedule_add_days_tues">星期二</string>
+    <string name="schedule_add_days_wed">星期三</string>
+    <string name="schedule_add_days_thu">星期四</string>
+    <string name="schedule_add_days_fri">星期五</string>
+    <string name="schedule_add_days_sat">星期六</string>
+    <!-- Schedule Edit -->
+    <string name="schedule_edit_title">疗程选择: \n%1$s - %2$s</string>
+    <string name="schedule_edit_delete">点击按钮删除疗程</string>
+    <string name="schedule_edit_exit">点击按钮编辑当前疗程</string>
+    <string name="schedule_edit_return">点击按钮返回日历表</string>
+    
+    <!-- Error Message -->
+    <string name="e_no_error">无错误!</string>
+    <string name="e_power_board_no_ack">控制屏幕与电源箱的链接有误，请检查RS-232电线连接，它两端分别位于电源箱附近和前墙下方。如果问题依然存在，请检查控制板后方的电线连接。</string>		<!-- E1 -->
+    <string name="e_model">初始设置过程中您输入的设备的产品序号与系统默认的不一致，请输入正确的产品序号。 </string>					<!-- E2 -->
+    <string name="e_ac_voltage_240v">您购买的桑拿额定电压为220-240V，您提供的插座电压不足，请检查您的线路。若线路插座电压无问题而提示依然存在，请查看使用指南或联系桑籁客服 400-099-2182。 </string>				<!-- E3 -->
+    <string name="e_ac_voltage_120v">您购买的桑拿额定电压为120V，您提供的插座电压太高有可能会损坏桑拿设备，请检查您的线路。若线路插座电压无问题而提示依然存在，请查看使用指南或联系桑籁客服 400-099-2182。</string>				<!-- E3 01 -->
+    <string name="e_ht_failed">远或近红外线失效（H1-H13发热器模块），发热器上的温度感应器在规定的时间内未感知到升温。如果您的桑拿房被放置在较低的环境温度下这可能是假象，另外如果您插座的电压稍低于设备额定电压，该问题的出现也是一个假象。请检查您的线路，并检查桑拿房每面墙下方的电线连接。若以上检查均无误而问题依然存在，请查看使用指南或联系桑籁客服 400-099-2182。</string>				<!-- E4 -->
+    <string name="e_ntc_failed">桑拿房每面墙上的发热器有有大量的温度感应器，用来检测和调节发热器的功率，使桑拿疗程效果达到最优，感应器的响应时间比预期的慢，若出现该问题，请查看使用指南或联系桑籁客服 400-099-2182。当响应慢的感应器数量少到只有很小部分，故障会自动关闭，此时不影响您愉快地使用桑拿。</string>				<!-- E5 -->
+    <string name="e_ht_control_unit_failed">每台桑拿都有一套复杂庞大的电路控制系统来支持它全动态功能，现在您桑拿中的一条小线路似乎没有按照预期响应，这并不会影响桑拿的效果，您可以继续愉快地使用桑拿。如果您希望尽快解决问题请联系桑籁客服 400-099-2182。</string>	<!-- E6 -->
+    <string name="e_lighting_box_no_ack">您的灯光控制板没有响应，原因可能是您的灯光控制线接触不良，请检查4号线的链接，它位于主电源箱旁边较小类似电源箱。</string>	<!-- E7 -->
+	<!-- NTC Error Message -->
+	<string-array name="ntc_error_message">  
+        <item >后墙  FIR 下</item>  
+        <item >后墙  MIR</item>  
+        <item >后墙  FIR 上</item>  
+        <item >右墙  FIR 下</item>  
+        <item >右墙  MIR</item>  
+        <item >右墙  FIR 上</item>  
+        <item >前墙  FIR</item>  
+        <item >前墙  MIR</item>  
+        <item >底墙  FIR</item>  
+        <item >NC</item>  
+        <item >左墙  FIR 下</item>  
+        <item >左墙  MIR</item>  
+        <item >左墙  FIR 上</item>  
+    </string-array> 
+    <!-- usb install -->
+   	<string name="usb_install_now">安装</string>
+   	<string name="usb_install_info">USB检测到一个新版本，请问您现在需要安装吗？</string>
+   	<string name="usb_app_version">版本:</string>
+   	<string name="usb_app_md5">MD5:</string>
+   	<!-- pin code display -->
+   	<string name="pin_activity">Pin码:</string>
+    
+</resources>
