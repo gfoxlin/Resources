@@ -1,0 +1,148 @@
+[
+    {
+        "type": 0,
+        "content": [
+            {
+                "title": "Hoe lang heb ik nodig om de sauna te verwarmen?",
+                "desc": "Verwarm bestaat dus dat programma looptijden niet worden verspild aan opwarmen. Over het algemeen moet je een stijging van 1 graad per minuut zien, en kan een programma te starten zodra de sauna bereikt 115ºF."
+            },
+            {
+                "title": "Aanpassen Sauna Temperatuur:",
+                "desc": "Tijdens het gebruik van de aanbevolen interface aan te passen de temperatuur van uw sauna door te schuiven op de grijze knop rond het centrum in op de gewenste temperatuur. Bij gebruik van de vereenvoudigde interface aan te passen de temperatuur van uw sauna door op de pijltjes omhoog / omlaag om de gewenste temperatuur."
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "content": [
+            {
+                "title": "Hoe kan ik een sauna sessie plannen.",
+                "desc": "Stap 1: Selecteer 'Schedule' in de menubalk aan de onderkant van het scherm
+<br /><i><font color=#CCCCCC>LET OP: U kunt door het verleden en de toekomst weken scrollen door op de links / rechts pijlen op de top van de kalender</font></i>
+<br />Stap 2: Om een nieuwe sessie te plannen, drukt u op de gewenste schema blok
+<br />Stap 3: Selecteer tijd, programma en de pre-warmte-tijd
+<br />Stap 4: Druk op de 'set' knop om uw nieuwe schema op te slaan en terug te keren naar de agenda"
+            }
+        ]
+    },
+    {
+        "type": 2,
+        "content": [
+            {
+                "title": "Je eerste installatie wijzigen.",
+                "desc": "Na het voltooien van de initiële set-up instellingen kunt u nog steeds terug te gaan en de instellingen te wijzigen:
+<br />Stap 1: Selecteer 'Instellingen' in de menubalk aan de onderkant van het scherm
+<br />Stap 2: Gebruik de schuifbalk aan de rechterkant om te navigeren naar de instelling die u wilt wijzigen
+<br /><i><font color=#CCCCCC>OPMERKING: Alle instellingen worden vermeld, dus er is geen noodzaak om een systeem reset uit te voeren om een systeem verandering te maken</font></i>"
+            }
+        ]
+    },
+    {
+        "type": 3,
+        "content": [
+            {
+                "title": "De optie Acoustic Resonance therapie werkt niet",
+                "desc": "-Stel de FAD (fader) instellen om 10R. 
+<br />-Pas meer macht aan de achterste luidsprekers. Dit is waar de stereo beschouwt de SoundHearts® te zijn."
+            },
+            {
+                "title": "Kleurentherapie lichten niet werken",
+                "desc": "- Verwijder de glazen koepels van de lichten.
+<br />-Als de lampjes knipperen, schakelt de connector rond op de gloeilamp.
+<br />-Zorg ervoor dat de lichtbalk op het scherm wordt gedraaid, en het gebruik van de afstandsbediening om de verlichting van stroom aan of uit."
+            },
+            {
+                "title": "Warmte wordt niet uitzenden van de panelen.",
+                "desc": "Controleer of de stroomonderbreker van de sauna niet is geactiveerd
+<br />-De breker is een kleine, zwarte reset knop aan de rechterkant van de hoofdschakelaar in.
+<br />-De power box is gelegen onder een panel vloer onder de bank.
+<br />-Als de stroomonderbreker blijft struikelen, kunt u contact opnemen Sunlighten Customer Care op 913.754.0831 optie 7"
+            },
+            {
+                "title": "Binnenverlichting werkt niet - Stap 1.",
+                "desc": "Op de vloer onder de bank zijn twee houten panelen die omhoog
+
+ (ze mogen worden geschroefd door Philips-head schroeven). <a href='#1'>Click Here</a> voor de afbeelding
+ de componenten onder de panelen:
+<br /><br />-Zorg ervoor dat de LED op elk onderdeel wordt niet knipperen of uit te schakelen. <a href='#1'>Klik op
+
+ hier</a> instructies
+<br />-Als de rode en groene lichten op, stroom uit uw sauna en de stekker uit de muur.
+<br />-Controleren dan dat elke verbinding onder deze panelen, (in het bijzonder het gaan tussen de
+
+ twee componenten met de lichten,) stevig is en dat niemand zijn losgekoppeld. ",
+                 "Links": [
+                    {
+                        "tag": "#1",
+                        "title": "interieur Verlichting",
+                        "desc": "Er moet een stevige rode licht in de gele cirkel, en
+
+een stevige groene licht de blauwe cirkel. Opmerking: Het groene licht is zeer zwak; het kan lijken
+
+af zijn, maar bij nader inzien, ook daadwerkelijk op. <a href='#0'> Klik hier om terug te gaan naar
+
+Stap 1.</a>
+<br /> <br /> <img src='assets:help/step1-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Binnenverlichting werkt niet - Stap 2.",
+                "desc": "-Zoek de kleinere houten paneel op de vloer onder het LCD-scherm.<a href='#1'>Klik hier voor een voorbeeld</a>.
+<br />-Controleer of alle aansluitingen hier om veilig worden gemaakt. 
+<br />-Als alle aansluitingen zijn gemaakt, verplaatsen naar stap 3",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Binnenverlichting werkt niet",
+                        "desc": "Zoek de kleinere houten paneel op de vloer onder het LCD-
+
+ screen.
+<br/> <a href='#0'> Klik hier om terug te keren naar stap 2. </a>
+<br /> <br /> <img src='assets:help/step2-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Binnenverlichting werkt niet - Stap 3.",
+                "desc": "-Zoek houten paneel op het dak (boven LCD-scherm). <a href='#1'>Klik Hier</a> bijvoorbeeld.
+<br />-Controleer of de draden zijn aangesloten.
+<br /><i><font color=#CCCCCC>Opmerking: De stereo antenne zou worden losgekoppeld en kunnen
+ lag overal. Zie de afbeelding hieronder voor de witte cirkels geven de stereo antenne.</font></i>
+<br />Zodra je de 3 stappen hebt voltooid, sluit uw sauna weer in en stel het interieur
+
+lichten. Als er nog steeds geen verlichting, bel Sunlighten Customer Care op 913.754.0831
+
+optie 7",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Binnenverlichting werkt niet。",
+                        "desc": "De stereo antenne zou worden losgekoppeld en kunnen
+
+ lag overal. Zie de afbeelding hier voor de witte cirkels geven de stereo antenne.
+<br /> <a href='#0'>Klik hier om terug te keren naar stap 3</a>
+<br /> <br /> <img src='assets:help/step3-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Ik kan niet de tijd of de temperatuur van de gezondheid programma aan te passen",
+                "desc": "Vooringestelde gezondheidsprogramma's kunnen niet worden aangepast. De programma's zijn ontworpen
+
+ de optimale combinatie van infrarode golflengten uitzenden het gewenste gezondheidsvoordeel.
+<br />Als u een aangepaste tijd of temperatuurinstelling instellen, selecteert u Aangepast programma
+
+je eigen gezondheid programma te maken."
+            },
+            {
+                "title": "Mijn sauna een temperatuur van 135 ° F bereikt alleen",
+                "desc": "De gezondheidsprogramma's worden ingesteld om te werken op verschillende infrarood-intensiteiten
+
+en golflengten voor een bepaalde duur. Er is geen vaste temperatuur, maar ze zullen over het algemeen
+
+vestigen rond 125-135 ° F."
+            }
+        ]
+    }
+]
