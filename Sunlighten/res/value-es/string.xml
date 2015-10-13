@@ -1,30 +1,30 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+ <resources>
   <string name="app_name">Sunlighten</string> 
   <string name="dummy_button">Dummy Button</string> 
   <string name="dummy_content">DUMMY\nCONTENT</string> 
-- <!--  unit 
+ <!--  unit 
   --> 
   <string name="unit_mins">%1$d minutes</string> 
   <string name="unit_time_mins">mins</string> 
   <string name="unit_time_min">min</string> 
   <string name="unit_time_hr">hr</string> 
   <string name="unit_heart_rate">bmp</string> 
-- <!--  common 
+ <!--  common 
   --> 
   <string name="sinnper_no_selected">por favor seleccione</string> 
   <string name="dialog_title">advertencia</string> 
   <string name="yes">sí</string> 
   <string name="no">no</string> 
   <string name="remaining">restante</string> 
-- <!--  shutdown 
+ <!--  shutdown 
   --> 
   <string name="shutdown_title">Por favor seleccione:</string> 
   <string name="shutdown_btn">cierre</string> 
   <string name="reboot_btn">reiniciar</string> 
   <string name="cancel_btn">cancelar</string> 
   <string name="shutdown_desc">Seleccione uno para apagar los dispositivos.</string> 
-- <!--  shutdown dialog
+ <!--  shutdown dialog
   --> 
   <string name="shutdown_loading_title">Cargando ...</string> 
   <string name="shutdown_loading_desc">Por favor, espere ...</string> 
@@ -82,11 +82,11 @@
   --> 
   <string name="error_serialnum">error de número de serie</string> 
   <string name="s4_congratulations_deixis">Introduzca su información de configuración inicial de abajo para empezar a utilizar su sauna.</string> 
-- <string name="s4_download">
+ <string name="s4_download">
   <b>descargar</b> 
   <i>último sistema \nactualización (opcional)</i> 
   </string>
-- <!--  s5 
+ <!--  s5 
   --> 
   <string name="s5_diaplaymode">Modo de visualización</string> 
 - <string name="s5_standard">
