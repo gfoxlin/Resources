@@ -10,7 +10,7 @@
     <string name="unit_time_mins">mins</string>
     <string name="unit_time_min">min</string>
     <string name="unit_time_hr">hr</string>
-    <string name="unit_heart_rate">bmp</string>
+    <string name="unit_heart_rate">bpm</string>
     <!-- common -->
     <string name="sinnper_no_selected">please select</string>
     <string name="dialog_title">Warning</string>
@@ -39,10 +39,10 @@
     <string name="lock_locked">The control panel is locked.</string>
     <string name="lock_unlocked">The control panel is unlocked.</string>
     <!-- loading activity -->
-    <string name="loading_sunlighten_date">Loading the data of sunlighten . . .</string>
+    <string name="loading_sunlighten_date">Loading the data of Sunlighten app . . .</string>
     <string name="loading_user_date">Loading the data of users . . .</string>
-    <string name="loading_history_date">Loading the history data of sunlighten . . .</string>
-    <string name="loading_preset_date">Loading the preset program data of sunlighten . . .</string>
+    <string name="loading_history_date">Loading the history data of Sunlighten . . .</string>
+    <string name="loading_preset_date">Loading the preset program data of Sunlighten . . .</string>
     <string name="loading_date_over">Loading data over . . .</string>
     <!-- s1 activity -->
     <string name="s1_congratulations">Congratulations!</string>
