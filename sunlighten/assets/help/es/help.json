@@ -1,0 +1,123 @@
+[
+    {
+        "type": 0,
+        "content": [
+            {
+                "title": "¿Cuánto tiempo necesito para precalentar las sauna?",
+                "desc": "Precaliente existe de modo que la duración del programa no se desperdician en calentamiento. En general, debería ver un aumento de 1 grado por minuto, y puede iniciar un programa una vez que la sauna alcanza 115ºF."
+            },
+            {
+                "title": "Ajuste Sauna Temperatura:",
+                "desc": "Durante el uso de la interfaz recomendada, ajustar la temperatura de su sauna deslizando el botón gris alrededor de la esfera central a la temperatura deseada. Durante el uso de la interfaz simplificado, ajustar la temperatura de su sauna pulsando las flechas arriba / abajo a la temperatura deseada."
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "content": [
+            {
+                "title": "Cómo programar una sesión de sauna.",
+                "desc": "Paso 1: Seleccione 'agenda' en la barra de menú en la parte inferior de la pantalla
+<br /><i><font color=#CCCCCC>NOTA: Puede desplazarse por pasadas y futuras semanas deslizando hacia la izquierda / derecha en el calendario</font></i>
+<br />Paso 2: Para programar una nueva sesión, pulse el fechador deseada
+<br />Paso 3: Seleccione el tiempo, el programa y el tiempo de precalentamiento
+<br />Paso 4: Pulse el botón 'set' para guardar la nueva programación y volver a la vista de calendario"
+            }
+        ]
+    },
+    {
+        "type": 2,
+        "content": [
+            {
+                "title": "Cambiar los ajustes de configuración inicial.",
+                "desc": "Después de completar la configuración inicial de configuración todavía se puede volver atrás y modificar los ajustes:
+<br />Paso 1: Seleccione 'Ajustes' en la barra de menú en la parte inferior de la pantalla
+<br />Paso 2: Utilice la barra de desplazamiento a la derecha para desplazarse hasta el ajuste que desea cambiar
+<br /><i><font color=#CCCCCC>NOTA: Todos los ajustes se enumeran lo que no hay necesidad de realizar un restablecimiento del sistema con el fin de hacer un cambio de sistema</font></i>"
+            }
+        ]
+    },
+    {
+        "type": 3,
+        "content": [
+            {
+                "title": "La opción de la terapia de resonancia acústica no está funcionando",
+                "desc": "-Ajuste el FAD (atenuador) Ajuste a 10R. 
+<br />-Ajuste más poder para los altavoces traseros. Aquí es donde el estéreo considera los SoundHearts® ser."
+            },
+            {
+                "title": "Luces de cromoterapia no están funcionando",
+                "desc": "- Retire las cúpulas de cristal de las luces. 
+<br />-Si las luces parpadean, cambiar el conector alrededor de la bombilla. 
+<br />-Asegúrese de que la barra de luz en la pantalla se enciende para arriba, y utilizar el mando a distancia para encender las luces de encendido o apagado."
+            },
+            {
+                "title": "El calor no está emitiendo desde los paneles.",
+                "desc": "Compruebe que el interruptor en la sauna no se ha disparado
+<br />-El interruptor es un botón de reinicio pequeño, negro en el lado derecho de la caja de alimentación principal.
+<br />-La caja de la fuente se encuentra bajo un panel de piso debajo del banco.
+<br />-Si el interruptor continúa disparándose, por favor póngase en contacto con Sunlighten Atención al Cliente al 913.754.0831 opción 7"
+            },
+            {
+                "title": "Iluminación interior no está funcionando - Paso 1.",
+                "desc": "En el piso debajo del banco son dos paneles de madera que levantan
+(pueden ser atornillados por tornillos de estrella). <a href='#1'>Skip</a> para la imagen
+ para los componentes de debajo de los paneles:
+<br /><br />-Asegúrese de que el LED de cada componente no está parpadeando o apagado. <a href='#1'>Haga clic en
+ aquí</a> para obtener instrucciones
+<br />-Si las luces rojas y verdes están encendidos, apague su sauna y desenchúfelo de la pared.
+<br />-Luego verifique que todas las conexiones bajo estos paneles, (yendo específicamente entre el dos componentes con las luces,) se realizan de forma segura y que ninguno se desconectan.",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Luces interiores",
+                        "desc": "Debe haber una luz roja fija en el círculo amarillo y
+ un sólido luz verde el círculo azul. Nota: La luz verde es extremadamente tenue; puede parecer que estar fuera, pero una inspección más cercana, en realidad estar encendido. <a href='#0'>Haga clic aquí para volver a
+Paso 1.</a>
+<br /> <br /> <img src='assets:help/step1-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Iluminación interior no está funcionando - Paso 2.",
+                "desc": "-Busque el panel de madera más pequeña en el suelo debajo de la pantalla LCD. <a href='#1'>Clic Aquí por ejemplo</a>.
+<br />-Verifique que todas las conexiones estén bien hechas aquí. 
+<br />-Si se realizan todas las conexiones, pasar a la etapa 3",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Iluminación interior no está funcionando",
+                        "desc": "Busque el panel de madera más pequeña en el suelo debajo de la pantalla LCD pantalla.
+<br/> <a href='#0'> Clic aquí para regresar al Paso 2. </a>
+<br /> <br /> <img src='assets:help/step2-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Iluminación interior no está funcionando - Paso 3.",
+                "desc": "-Localice el panel de madera en el techo (arriba pantalla LCD). <a href='#1'>Skip</a> por ejemplo.
+<br />-Verifique que los cables están conectados.
+<br /><i><font color=#CCCCCC>Nota: Se supone que la antena de estéreo a ser desconectado y puede sentar en cualquier lugar. Ver la imagen de abajo para los círculos blancos muestran la antena estéreo.</font></i>
+<br />Una vez que haya completado los 3 pasos, conecte su sauna de nuevo y ajustar el interior luces. Si aún no hay luces, por favor llame a Servicio al Cliente al Sunlighten 913.754.0831 opción 7",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Iluminación interior no está funcionando。",
+                        "desc": "Se supone que la antena de estéreo a ser desconectado y puede sentar en cualquier lugar. Ver la imagen aquí por los círculos blancos muestran la antena estéreo.
+<br /> <a href='#0'>Clic aquí para regresar al Paso 3</a>
+<br /> <br /> <img src='assets:help/step3-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "No puedo ajustar el tiempo o la temperatura del programa de salud",
+                "desc": "Programas de salud predefinidos no se pueden ajustar. Los programas están diseñados para emitir la mezcla óptima de longitudes de onda infrarrojas en beneficio de la salud deseada.
+<br />Si desea programar otro tiempo o ajuste de temperatura, seleccionar el programa personalizado de crear su propio programa de salud."
+            },
+            {
+                "title": "Mi sauna sólo alcanza una temperatura de 135 ° F",
+                "desc": "Los programas de salud se ponen a correr a diferentes intensidades de infrarrojos y longitudes de onda para una duración determinada. No hay temperatura del sistema, sin embargo, generalmente, asentarse alrededor 125-135°F."
+            }
+        ]
+    }
+]
