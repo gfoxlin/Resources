@@ -1,0 +1,118 @@
+[
+    {
+        "type": 0,
+        "content": [
+            {
+                "title": "How long do I need to preheat the sauna?",
+                "desc": "Preheat exists so that program durations aren't wasted on heating up. Generally, you should see an increase of 1 degree per minute, and can start a program once the sauna reaches 115ºF."
+            },
+            {
+                "title": "Adjusting Sauna Temperature:",
+                "desc": "While using the Recommended interface, adjust your sauna's temperature by sliding the grey button around the center dial to your desired temperature. While using the Simplified interface, adjust your sauna's temperature by pressing the up/down arrows to your desired temperature."
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "content": [
+            {
+                "title": "How to schedule a sauna session.",
+                "desc": "Step 1: Select ‘schedule’ in the menu bar at the bottom of the screen
+<br /><i><font color=#CCCCCC>NOTE: You can scroll through past and future weeks by pressing the left/right arrows at the top of the calendar</font></i>
+<br />Step 2: To schedule a new session, press the desired schedule block
+<br />Step 3: Select time, program and pre-heat time
+<br />Step 4: Press the ‘set’ button to save your new schedule and return to the calendar view"
+            }
+        ]
+    },
+    {
+        "type": 2,
+        "content": [
+            {
+                "title": "Changing your initial setup settings.",
+                "desc": "After completing the initial set-up settings you can still go back and modify the settings:
+<br />Step 1:Select 'settings' in the menu bar at the bottom of the screen
+<br />Step 2: Use the scroll bar on the right to navigate to the setting you wish to change 
+<br /><i><font color=#CCCCCC>NOTE: All settings are listed so there is no need to perform a system reset in order to make a system change</font></i>"
+            }
+        ]
+    },
+    {
+        "type": 3,
+        "content": [
+            {
+                "title": "The Acoustic Resonance Therapy option is not working",
+                "desc": "-Set the FAD (fader) setting to 10R. 
+<br />-Adjust more power to the rear speakers. This is where the stereo considers the SoundHearts® to be."
+            },
+            {
+                "title": "Chromotherapy lights are not working",
+                "desc": "- Remove the glass domes from the lights. 
+<br />-If the lights are blinking, switch the connector around on the bulb. 
+<br />-Ensure that the light bar on the screen is turned up, and use the remote to power the lights on or off."
+            },
+            {
+                "title": "Heat is not emitting from the panels.",
+                "desc": "Check that the breaker on the sauna has not tripped
+<br />-The breaker is a small, black reset button on the right-hand side of the main power box. 
+<br />-The power box is located under a floor panel beneath the bench. 
+<br />-If the breaker continues to trip, please contact Sunlighten Customer Care at 913.754.0831 option 7"
+            },
+            {
+                "title": "Interior lighting is not working - Step 1.",
+                "desc": "On the floor under the bench are two wooden panels that lift up (they may be screwed down by Philips-head screws). <a href='#1'>Click Here</a> for the image for the components under the panels:
+<br /><br />-Make sure the LED on each component is not blinking or off. <a href='#1'>Click Here</a> for instructions
+<br />-If the red and green lights are on, power off your sauna and unplug it from the wall.
+<br />-Then verify that every connection under these panels, (specifically going between the two components with the lights,) is securely made and that none are disconnected.",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Interior Lights",
+                        "desc": "There should be a solid red light in the yellow circle, and a solid green light the blue circle. Note: The green light is extremely dim; it may appear to be off but upon closer inspection, will actually be on. <a href='#0'>Click Here to go back to Step1.</a>
+<br /> <br /> <img src='assets:help/step1-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Interior lighting is not working - Step 2.",
+                "desc": "-Locate the smaller wooden panel on the floor below the LCD screen. <a href='#1'>Click Here for example</a>.
+<br />-Verify that all the connections here are securely made. 
+<br />-If all connections are made, move onto step 3",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Interior lighting is not working",
+                        "desc": "Locate the smaller wooden panel on the floor below the LCD screen.
+<br/> <a href='#0'> Click Here to return to Step 2. </a>
+<br /> <br /> <img src='assets:help/step2-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "Interior lighting is not working - Step 3.",
+                "desc": "-Locate wooden panel on the roof (above LCD screen). <a href='#1'>Click Here</a> for example.
+<br />-Verify that the wires are connected.
+<br /><i><font color=#CCCCCC>Note: The stereo antenna is supposed to be disconnected and can lay anywhere. See the image below for the white circles show the stereo antenna.</font></i>
+<br />Once you have completed the 3 steps, plug your sauna back in and adjust the interior lights. If there are still no lights, please call Sunlighten Customer Care at 913.754.0831 option 7",
+                "links": [
+                    {
+                        "tag": "#1",
+                        "title": "Interior lighting is not working。",
+                        "desc": "The stereo antenna is supposed to be disconnected and can lay anywhere. See the image here for the white circles show the stereo antenna.
+<br /> <a href='#0'>Click Here to return to Step 3</a>
+<br /> <br /> <img src='assets:help/step3-pic.jpg'></img>"
+                    }
+                ]
+            },
+            {
+                "title": "I cannot adjust the time or temperature of the health program",
+                "desc": "Preset health programs cannot be adjusted. The programs are designed to emit the optimal blend of infrared wavelengths for the desired health benefit.
+<br />If you wish to set a custom time or temperature setting, select Custom program to create your own health program."
+            },
+            {
+                "title": "My sauna only reaches a temperature of 135°F",
+                "desc": "The health programs are set to run at varying infrared intensities and wavelengths for a set duration. There is no set temperature, however they will generally settle around 125-135°F."
+            }
+        ]
+    }
+]
