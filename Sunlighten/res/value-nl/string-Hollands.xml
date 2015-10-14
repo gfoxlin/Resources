@@ -5,132 +5,132 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     
-    <!-- unit -->
-    <string name="unit_mins">%1$d minutes</string>
-    <string name="unit_time_mins">mins</string>
+     <!-- unit -->
+    <string name="unit_mins">%1$d minuten</string>
+    <string name="unit_time_mins">min</string>
     <string name="unit_time_min">min</string>
-    <string name="unit_time_hr">hr</string>
-    <string name="unit_heart_rate">bmp</string>
+    <string name="unit_time_hr">u</string>
+    <string name="unit_heart_rate">bpm</string>
     
     <!-- common -->
-    <string name="sinnper_no_selected">selecteer alstublieft</string>
-    <string name="dialog_title">waarschuwing</string>
-    <string name="yes">ja</string>
-    <string name="no">geen</string>
-    <string name="remaining">overgebleven</string>
+    <string name="sinnper_no_selected">Selecteer alstublieft</string>
+    <string name="dialog_title">Waarschuwing</string>
+    <string name="yes">Ja</string>
+    <string name="no">Neen</string>
+    <string name="remaining">resterend</string>
     
-    <!-- shutdown -->
-    <string name="shutdown_title">selecteer alstublieft:</string>
-    <string name="shutdown_btn">afsluiten</string>
-    <string name="reboot_btn">Reboot</string>
-    <string name="cancel_btn">annuleren</string>
-    <string name="shutdown_desc">Selecteer een aan sluiting van de apparaten.</string>
+     <!-- shutdown -->
+    <string name="shutdown_title">Selecteer alstublieft:</string>
+    <string name="shutdown_btn">Afsluiten</string>
+    <string name="reboot_btn">Herstarten</string>
+    <string name="cancel_btn">Annuleren</string>
+    <string name="shutdown_desc">Selecteer de gewenste actie</string>
     <!-- shutdown dialog-->
     <string name="shutdown_loading_title">Laden ...</string>
-    <string name="shutdown_loading_desc">Wacht alstublieft ...</string>
+    <string name="shutdown_loading_desc">Wachten alstublieft ...</string>
     <!-- home -->
-    <string name="home_bt_null">geen\nterugkoppeling\napparaat gevonden</string>
-    <string name="home_bt_seaching">Seaching...</string>
-    <string name="home_bt_connecting">Aansluiten op het apparaat。</string>
-    <string name="home_bt_connected">Aangesloten het apparaat:\nNAME:%1$s。</string>
-    <string name="home_bt_disconnected">Losgekoppeld van het apparaat.</string>
-    <string name="home_cancel_program_desc">U bent momenteel %1$s program\nWat wil je het programma doen?</string>
-    <string name="home_cancel_program_end">einde</string>
-    <string name="home_cancel_program_continue">voortzetten</string>
-    <string name="lock_info">Het bedieningspaneel is vergrendeld. Raadpleeg de handleiding van de eigenaar om te ontgrendelen.</string>
+    <string name="home_bt_null">Geen \nreatie\napparaat \ngevonden</string>
+    <string name="home_bt_seaching">Zoeken...</string>
+    <string name="home_bt_connecting">Connecteren met het toestel。</string>
+    <string name="home_bt_connected">Geconnecteerd met het toestel:\nNAME:%1$s。</string>
+    <string name="home_bt_disconnected">Losgekoppeld van het toestel.</string>
+    <string name="home_cancel_program_desc">Momenteel is het programma <i>%1$s</i> actief.\nWat wilt u met het programma doen?</string>
+    <string name="home_cancel_program_end">Einde</string>
+    <string name="home_cancel_program_continue">Voortzetten</string>
+    <string name="lock_info">Het bedieningspaneel is vergrendeld. Raadpleeg de handleiding om te ontgrendelen.</string>
     <string name="lock_locked">Het bedieningspaneel is vergrendeld.</string>
    	<string name="lock_unlocked">Het bedieningspaneel is ontgrendeld.</string>
    	<!-- loading activity -->
-   	<string name="loading_sunlighten_date">Het laden van de gegevens van sunlighten. . .</string>
-   	<string name="loading_user_date">Het laden van de gegevens van gebruikers. . .</string>
-   	<string name="loading_history_date">Het laden van de geschiedenis gegevens van sunlighten. . .</string>
-   	<string name="loading_preset_date">Het laden van de vooraf ingestelde programma gegevens van sunlighten. . .</string>
-   	<string name="loading_date_over">Loading data over. . .</string>
+   	<string name="loading_sunlighten_date">Gegevens van Sunlighten worden geladen. . .</string>
+   	<string name="loading_user_date">Gegevens van gebruikers worden geladen. . .</string>
+   	<string name="loading_history_date">De gebruikersgeschiedenis van Sunlighten wordt geladen. . .</string>
+   	<string name="loading_preset_date">De vooraf ingestelde programma-gegevens van Sunlighten worden geladen. . .</string>
+   	<string name="loading_date_over">Alle data is geladen. . .</string>
    		
-   	<!-- s1 activity --> 
+   	!-- s1 activity --> 
    	<string name="s1_congratulations">Gefeliciteerd!</string>
-    <string name="s1_congratulations_deixis">Vul hieronder uw eerste set-up informatie te beginnen met behulp van uw sauna.</string>
-    <string name="s1_setwireless"><b>Set-up</b><i> uw draadloze\nverbinding (optioneel)</i></string>
+    <string name="s1_congratulations_deixis">Voer uw initiële set-up informatie in om uw sauna beginnen te gebruiken.</string>
+    <string name="s1_setwireless"><b>Stel</b><i> u draadloze\nconnectie in (optioneel)</i></string>
    	
    	<!-- s2 vactivity --> 
-    <string name="s2_settings"><b>instellingen</b></string>
+    <string name="s2_settings"><b>Instellingen</b></string>
     <!--
-    <string name="s2_item1_t1">Unit Selecteer:</string>
-    <string name="s2_item2_t1">Language Select:</string>
-    <string name="s2_item3_t1">Gebruik Select:</string>
-    <string name="s2_item4_t1">serienummer:</string>
-    <string name="s2_item1_t2">Selecteer meeteenheden voor uw control panel</string>
-    <string name="s2_item2_t2">Kies taal voor uw control panel</string>
-    <string name="s2_item3_t2">Kies waar uw product zal worden gebruikt</string> -->
-    <string name="s2_item4_t2">Voer uw serienummer - op de achterkant rechts van het vloerpaneel.</string>
+    <string name="s2_item1_t1">Eenheid selecteren:</string>
+    <string name="s2_item2_t1">Taal selecteren:</string>
+    <string name="s2_item3_t1">Gebruik selecteren:</string>
+    <string name="s2_item4_t1">Serienummer:</string>
+    <string name="s2_item1_t2">Selecteer de meeteenheden voor uw bedieningspaneel</string>
+    <string name="s2_item2_t2">Selecteer uw taal voor het bedieningspaneel</string>
+    <string name="s2_item3_t2">Selecteer waar uw product zal gebruikt worden</string> -->
+    <string name="s2_item4_t2">Voer uw serie nummer in - Deze kan gevonden worden op de rechter achterkant van het vloerpaneel.</string>
     <!-- <string name="s2_unit_US">US(˚F)</string>
-    <string name="s2_unit_Metric">metric(˚C)</string>
+    <string name="s2_unit_Metric">Metrisch(˚C)</string>
     <string name="s2_language_english">English</string>
-    <string name="s2_language_spanish">Spanish</string>
-    <string name="s2_language_french">French</string>
-    <string name="s2_language_dutch">Dutch</string>
-    <string name="s2_language_mandarin">Simplified CH</string>
-    <string name="s2_usage_residential">Residential</string>
-    <string name="s2_usage_commercial">Commercial</string> -->
-    <string name="error_serialnum">serienummer error</string>
+    <string name="s2_language_spanish">Español</string>
+    <string name="s2_language_french">Français</string>
+    <string name="s2_language_dutch">Nederlands</string>
+    <string name="s2_language_mandarin">Mandarin</string>
+    <string name="s2_usage_residential">Residentieel</string>
+    <string name="s2_usage_commercial">Commercieel</string> -->
+    <string name="error_serialnum">Serienummer fout</string>
     
-    <string name="s4_congratulations_deixis">Vul hieronder uw eerste set-up informatie te beginnen met behulp van uw sauna.</string>
-    <string name="s4_download"><b>Download</b><i> nieuwste systeem \nverbinding (optioneel)</i></string>
+    <string name="s4_congratulations_deixis">Voer uw initiële set-up informatie in om uw sauna beginnen te gebruiken.</string>
+    <string name="s4_download"><b>Download</b><i> laatste systeem update (optioneel)</i></string>
         <!-- s5 -->
-    <string name="s5_diaplaymode">Display Mode</string>
-    <string name="s5_standard"><b>standaard</b></string>
-    <string name="s5_simplified"><b>vereenvoudigd</b></string>
+    <string name="s5_diaplaymode">Scherm modus</string>
+    <string name="s5_standard"><b>Aanbevolen</b></string>
+    <string name="s5_simplified"><b>Vereenvoudigd</b></string>
         <!-- s6 -->
-    <string name="s6_congratulations_deixis">Vul hieronder uw eerste set-up informatie te beginnen met behulp van uw sauna.</string>
-    <string name="s6_viewtutorial"><b>View</b> Tutorial</string>
+    <string name="s6_congratulations_deixis">Voer uw initiële set-up informatie in om uw sauna beginnen te gebruiken.</string>
+    <string name="s6_viewtutorial"><b>Bekijk</b> Zelfstudie</string>
     
-    <!-- home time mode -->
-    <string name="run_mode_quick">Quick modus</string>
+     <!-- home time mode -->
+    <string name="run_mode_quick">Snelle modus</string>
     <string name="run_mode_cust">Aangepaste modus</string>
-    <string name="run_mode_pre">pre Verwarming</string>
+    <string name="run_mode_pre">Voorverwarming</string>
     <!-- home temp -->
-    <string name="temp_current_txt">stroom:</string>
-    <string name="temp_set_txt">set:</string>
+    <string name="temp_current_txt">Huidig:</string>
+    <string name="temp_set_txt">Stel in:</string>
     
     <!-- button -->
-    <string name="btn_set">Set</string>
-    <string name="btn_next">volgende</string>
-    <string name="btn_start">begin</string>
-    <string name="btn_accept">aanvaarden</string>
-    <string name="btn_finished">afgewerkt</string>
-    <string name="btn_yes">ja</string>
-    <string name="btn_back">terug</string>
-    <string name="btn_delete">verwijderen</string>
-    <string name="btn_edit">uitgeven</string>
-    <string name="btn_close">dicht</string>
+    <string name="btn_set">Stel in</string>
+    <string name="btn_next">Volgende</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_accept">Aanvaarden</string>
+    <string name="btn_finished">Afgewerkt</string>
+    <string name="btn_yes">Ja</string>
+    <string name="btn_back">Terug</string>
+    <string name="btn_delete">Verwijderen</string>
+    <string name="btn_edit">Bewerk</string>
+    <string name="btn_close">Sluiten</string>
     <!-- tab -->
-    <string name="tab_menu_names_01">helpen</string>
-    <string name="tab_menu_names_02">gezondheid\nprogramma\'s</string>
-    <string name="tab_menu_names_03">gezondheid\nbijhouden</string>
-    <string name="tab_menu_names_04">rooster\nsaunasessie</string>
-    <string name="tab_menu_names_05">aanpassen\nkachels</string>
-    <string name="tab_menu_names_06">aanpassen\nlichten</string>
-    <string name="tab_menu_names_07">instellingen/\nset-up</string>
-    <string name="tab_menu_names_08">media/\ntoepassingen</string>
-    <string name="tab_menu_names_09">huis</string>
-    <string name="tab_menu_names_close">dicht menu</string>
-    <string name="tab_menu_names_open">menu openen</string>
+    <string name="tab_menu_names_01">Help</string>
+    <string name="tab_menu_names_02">Gezondheid\nprogramma</string>
+    <string name="tab_menu_names_03">Gezondheid\nvolgen</string>
+    <string name="tab_menu_names_04">Dienstregeling\nsauna sessie</string>
+    <string name="tab_menu_names_05">Aanpassen\nverwarmingselementen</string>
+    <string name="tab_menu_names_06">Aanpassen\nverlichting</string>
+    <string name="tab_menu_names_07">Instellingen/\ninstellen</string>
+    <string name="tab_menu_names_08">Media/\ntoepassingen</string>
+    <string name="tab_menu_names_09">Beginscherm</string>
+    <string name="tab_menu_names_close">Sluit menu</string>
+    <string name="tab_menu_names_open">Open menu</string>
     
     <!-- title -->
-   <string name="title_create_user">Maak gebruiker</string>
-   <string name="title_user">gebruiker:</string>
-   <string name="title_running">hardlopen:</string>
-   <string name="status_none">geen</string>
+   <string name="title_create_user">Creër gebruiker</string>
+   <string name="title_user">Gebruiker:</string>
+   <string name="title_running">Programma:</string>
+   <string name="status_none">Geen</string>
    
    <!-- lights -->
-   <string name="lights_ext_title">Exterieur Lights:</string>
-   <string name="lights_int_title">interieur Verlichting:</string>
-   <string name="lights_on">op</string>
-   <string name="lights_off">af</string>
+   <string name="lights_ext_title">Buitenverlichting:</string>
+   <string name="lights_int_title">Binnenverlichting:</string>
+   <string name="lights_on">Aan</string>
+   <string name="lights_off">Uit</string>
    
    <!-- applications -->
-   	<string name="apps_desc">Druk op het pictogram om het recht om een toepassing te starten</string>
-   	<string name="apps_desc_note">Opmerking: Sommige van de toepassingen zijn abonnementsdiensten dat de betaling voor het volledige gebruik vereisen. Sunlighten geen controle van een van deze toepassingen.</string>
+   	<string name="apps_desc">Druk op het icoon aan de rechterkant om de toepassing te starten.</string>
+   	<string name="apps_desc_note">Opgelet: Sommige toepassingen zijn abbonementsservices die betalend zijn. Sunlighten heeft geen vat op deze toepassingen.</string>
     <string name="apps_browser">Browser</string>
     <string name="apps_netflix">Netflix</string>
     <string name="apps_facebook">Facebook</string>
@@ -143,192 +143,192 @@
     <string name="apps_google_plus">Google+</string>
     <string name="apps_youtube">Youtube</string>
     <string name="apps_hulu">Hulu</string>
-    <string name="apps_noinstalled">Deze toepassing is niet geïnstalleerd</string>  
+    <string name="apps_noinstalled">Deze toepassing is niet geïnstalleerd.</string>  
     
     <!-- settings -->
-    <string name="settings_update_title"><b>Download</b> het laatste\nsoftware-update</string>
-    <string name="settings_update_newest">update beschikbaar:</string>
-    <string name="settings_update_current">huidige versie:</string>
-    <string name="setting_latest_version">Laatste Versie:</string>
-    <string name="setting_version_newest">Geen update beschikbaar is.</string>
-    <string name="settings_wireless_title"><b>Set-up</b> uw draadloze\nverbinding</string>
-    <string name="settings_tutorial_title"><b>horloge</b> basic handleiding</string>
-    <string name="settings_tutorial_desc">Druk hier om een tutorial waarin de basis \ nfunctionality van uw sauna controlepaneel kijken</string>
-    <string name="settings_screen_brightness_title">Select Screen Helderheid:</string>
-    <string name="settings_language_title">taal Select:</string>
-    <string name="settings_language_desc">Kies taal voor uw control panel</string>
-    <string name="settings_unit_title">unit Selecteer:</string>
-    <string name="settings_unit_desc">Selecteer meeteenheden voor uw control panel</string>
-    <string name="settings_mode_title">Kies wijze van gebruik:</string>
-    <string name="settings_mode_desc">Kies tussen residentiële en commerciële modi</string>
-    <string name="settings_display_mode_title">Kies weergavemodus:</string>
-    <string name="settings_display_mode_desc">U kunt kiezen uit de standaard display met de meeste functies of de vereenvoudigde versie</string>
-    <string name="settings_serial_title">serienummer:</string>
-    <string name="settings_serial_desc">Huidige serienummer displayed.Press in de vorm veld te bewerken</string>
-    <string name="settings_reset_title">System Reset:</string>
-    <string name="settings_reset_desc">Reset uw control panel naar de fabrieksinstellingen</string>
-    <string name="set_serial_hint">serienummer</string>
+    <string name="settings_update_title"><b>Download</b> laatste systeem update</string>
+    <string name="settings_update_newest">Update beschikbaar:</string>
+    <string name="settings_update_current">Huidige versie:</string>
+    <string name="setting_latest_version">Laatste versie:</string>
+    <string name="setting_version_newest">Geen update beschikbaar.</string>
+    <string name="settings_wireless_title"><b>Instellen</b> uw draadloze\nconnectie</string>
+    <string name="settings_tutorial_title"><b>Bekijk</b> basis leermodule</string>
+    <string name="settings_tutorial_desc">Druk hier om een basis leermodule te bekijken, deze toont u de basis \nfuncties om uw sauna te bedienen</string>
+    <string name="settings_screen_brightness_title">Helderheid scherm selecteren:</string>
+    <string name="settings_language_title">Taal selecteren:</string>
+    <string name="settings_language_desc">Selecteer uw taal voor het bedieningspaneel</string>
+    <string name="settings_unit_title">Eenheid selecteren::</string>
+    <string name="settings_unit_desc">Selecteer de meeteenheden voor uw bedieningspaneel</string>
+    <string name="settings_mode_title">Gebruik selecteren:</string>
+    <string name="settings_mode_desc">Selecteer waar uw product zal gebruikt worden</string>
+    <string name="settings_display_mode_title">Scherm modus selecteren:</string>
+    <string name="settings_display_mode_desc">Kies voor de standaard modus voor de meeste mogelijkheden of kies voor de vereenvoudigde versie</string>
+    <string name="settings_serial_title">Serie Nummer:</string>
+    <string name="settings_serial_desc">Huidige serienummer is weergegeven.Tik op de serienummer om deze aan te passen</string>
+    <string name="settings_reset_title">Reset Systeem:</string>
+    <string name="settings_reset_desc">Herinitialiseert uw bedieningspaneell naar de fabrieksinstellingen</string>
+    <string name="set_serial_hint">Serienummer</string>
     <!-- Setting update dialog -->
-    <string name="update_title">nieuwe versie</string>
-    <string name="update_desc">Detecteren de nieuwste versie %1$s, Download het nu?</string>
-    <string name="update_download">Download</string>
-    <string name="update_downloading">downloaden ...</string>
+    <string name="update_title">Nieuwe versie</string>
+    <string name="update_desc">Nieuwste versie gedetecteerd %1$s, nu downloaden?</string>
+    <string name="update_download">Downloaden</string>
+    <string name="update_downloading">Downloaden ...</string>
     
     <!-- reboot -->
     <string name="reset_simple_title">Herstart het apparaat</string>
-    <string name="reset_simple_ak">Ga verder met System Reboot?</string>
-    <string name="reset_software_title">Zet alle software, maar houdt gebruikersgegevens</string>
-    <string name="reset_software_ak">Ga verder met System reset?</string>
-    <string name="reset_all_title">Zet alle software en wist alle gebruikersgegevens</string>
+    <string name="reset_simple_ak">Ga verder met Herstarten?</string>
+    <string name="reset_software_title">Herinitialiseert alle software, maar houdt gebruikersgegevens</string>
+    <string name="reset_software_ak">Ga verder met Systeem reset?</string>
+    <string name="reset_all_title">Herinitialiseert alle software en wist alle gebruikersgegevens</string>
     <string name="reset_all_ak">Doorgaan met Full reset?</string>
     
     <!-- help -->
-    <string name="help_menu_01">Basic Gebruik</string>
-    <string name="help_menu_02">rooster</string>
-    <string name="help_menu_03">instellingen</string>
-    <string name="help_menu_04">probleemoplossing</string>
-    <string name="help_menu_05">diagnostisch</string>
-    <string name="help_menu_06"><b>Bekijk Alles</b></string>
-    <!-- help diagnostic -->
-    <string name="diagnostic_title">Voer hieronder gebruikersgegevens aan profiel aan te maken en te helpen nauwkeurige biofeedback gegevens.</string>
-    <string name="diagnostic_level">Diagonostic Level:</string>
+    <string name="help_menu_01">Basis Gebruik</string>
+    <string name="help_menu_02">Dienstregeling</string>
+    <string name="help_menu_03">Instellingen</string>
+    <string name="help_menu_04">Probleemoplossing</string>
+    <string name="help_menu_05">Diagnostisch</string>
+    <string name="help_menu_06"><b>Zie Alle</b></string>
+     <!-- help diagnostic -->
+    <string name="diagnostic_title">Selecteer onderstaande gegevens betreffende de diagnose.</string>
+    <string name="diagnostic_level">Niveau van diagnose:</string>
     <string name="diagnostic_check">Controleer voor System Update:</string>
     <string name="diagnostic_checking">Controleren ...</string>
-    <string name="diagnostic_spinner_level">snel</string>
-    <string name="diagnostic_spinner_check">ja</string>
+    <string name="diagnostic_spinner_level">Snel</string>
+    <string name="diagnostic_spinner_check">Ja</string>
     <string name="diagnostic_result">Sauna scannen compleet:</string>
     
     <!-- program -->
-    <string name="pro_menu_01">gewichtsverlies</string>
-    <string name="pro_menu_02">cardiovasculaire</string>
-    <string name="pro_menu_03">ontgifting</string>
-    <string name="pro_menu_04">pijnstilling</string>
-    <string name="pro_menu_05">ontspanning</string>
-    <string name="pro_menu_06">Anti-Veroudering</string>
-    <string name="pro_menu_07">gewoonte</string>
-    <string name="pro_menu_08">Delete Program</string>
-    <string name="pro_menu_09">bewerken Program</string>
-    <string name="pro_menu_10">Maak Program</string>
-    <string name="pro_detox_desc_01">Midden en Verre infrarood start met een hoge intensiteit aan \ nhet lichaam \ \'s kerntemperatuur te verhogen</string>
-    <string name="pro_detox_desc_02">\nthen reduces to a low,comfortable intensity leveldan reduceert tot een lage, comfortabele intensiteit\n</string>
-    <string name="pro_detox_desc_03">De MIR en FIR conbination verbetert de toegang tot de bloedbaan stroom naar \ nreach toxines op cellulair niveau.</string>
-    <string name="pro_relax_desc_01">Far, mid en nabij-infrarood veroorzaken diepe ontspanning als ze \ nrelieve spierspanning bij een lage, comfortabele intensiteit.</string>
-    <string name="pro_relax_desc_02">\nbevordering van de algehele vermindering van stress bij regelmatig gebruik.\n</string>
-    <string name="pro_anti_desc_01">Een lage, constante intensiteit van heinde en verre infrarood \ npenetrates weefsel te helpen met diverse huidproblemen.</string>
-    <string name="pro_anti_desc_02">NIR LEDs de algehele huid toon, elasticiteit en stevigheid \n\t het bevorderen van anti-aging voordelen.</string>
-    <string name="pro_cardio_desc_01">Een mix van de buurt, midden en ver infraed begint bij een hoge intensiteit \ ntoincrease hartslag en cardiale output.</string>
-    <string name="pro_cardio_desc_02">\ndan verlaagt de hartslag te houden\n</string>
-    <string name="pro_cardio_desc_03">\nCirculation stijgt tot een gezonde bloeddruk te bevorderen\n</string>
-    <string name="pro_weight_desc_01">Mid en ver infrarood beginnen bij een hoge intensiteit aan \ nhet cardiovasculaire systeem te stimuleren</string>
-    <string name="pro_weight_desc_02">\ndan reduceert tot een medium levelsysteem.\n</string>
-    <string name="pro_weight_desc_03">Als het lichaam werkt om zichzelf te koelen, er een toename van hart \ nrate, hartminuutvolume en stofwisseling Soortgelijke oefenen</string>
-    <string name="pro_pain_desc_01">Een mid en ver infrarood mix zorgt voor een natuurlijke verlichting van de pijn \ n door het verminderen van ontstekingen en zwellingen。</string>
-    <string name="pro_pain_desc_02">terwijl nabij infrarood LED dringen het weefsel\nbevordering van cellulaire reparatie</string>
-    <string name="pro_pain_desc_03">\neen medium, konstante intensiteit.\n</string>
-    <string name="pro_infrared_01">Far Infrared</string>
-    <string name="pro_infrared_02">Mid Infrared</string>
-    <string name="pro_infrared_03">Near Infrared</string>
-    <string name="pro_start_btn_desc">pers\nbuttonnaar\nbegin\nprogram</string>
-    <string name="pro_desc_suffix01">Mid en Far Infrared.</string>
-    <string name="pro_desc_suffix02">Nabije en Far Infrared.</string>
-    <string name="pro_desc_suffix03">Dichtbij, Mid en Far Infrared.</string>
+    <string name="pro_menu_01">Detoxificatie</string>
+    <string name="pro_menu_02">Relaxatie</string>
+    <string name="pro_menu_03">Huidgezondheid</string>
+    <string name="pro_menu_04">Cardiovasculair</string>
+    <string name="pro_menu_05">Gewichtsverlies</string>
+    <string name="pro_menu_06">Pijn Bestrijding</string>
+    <string name="pro_menu_07">Aangepast</string>
+    <string name="pro_menu_08">Verwijder Programma</string>
+    <string name="pro_menu_09">Verander Programma</string>
+    <string name="pro_menu_10">Creër Programma</string>
+    <string name="pro_detox_desc_01">Midden en Lange IR-golven starten aan een hoge intensiteit \n om de lichaamstemperatuur te verhogen.</string>
+    <string name="pro_detox_desc_02">\n Daarna worden deze gereduceerd tot een laag comfortabel niveau.</string>
+    <string name="pro_detox_desc_03">De combinatie van deze Midden en Lange IR-golven verbetert de bloedsomloop, /n om zo de gifstoffen op cellulair niveau uit het lichaam te drijven.</string>
+    <string name="pro_relax_desc_01">Lange, Midden en Korte IR-golven veroorzaken een intense ontspanning als ze \ n spierspanningen verhelpen bij een lage, comfortabele intensiteit.</string>
+    <string name="pro_relax_desc_02">\nZo creëren deze een algemene verlaging van stress bij regelmatig gebruik.\n</string>
+    <string name="pro_anti_desc_01">Een lage en constante intensiteit van Lange en Korte IR-golven \n Penetreren het huidweefsel om zo verscheidene huidproblemen te verhelpen.</string>
+    <string name="pro_anti_desc_02">Korte IR-golven bevorderen de gehele huidskleur, elasticiteit en stevigheid \n En gaan zo een anti-aging effect creëren</string>
+    <string name="pro_cardio_desc_01">Een combinatie van alle golflengtes starten op een hoge intensiteit. \n Om zo de hartslag en bloedsomloop te stimuleren.</string>
+    <string name="pro_cardio_desc_02">\nDaarna verlaagt dit niveau om deze hartslag te behouden\n</string>
+    <string name="pro_cardio_desc_03">\nDe bloedsomloop wordt verbeterd, wat resulteert in een gezondere bloeddruk\n</string>
+    <string name="pro_weight_desc_01">Midden en Lange IR-golven starten aan een hoge intensiteit \n om zo het cardiovasculaire systeem te stimuleren.</string>
+    <string name="pro_weight_desc_02">\nDaarna wordt dit gereduceerd tot een gemiddeld niveau\n</string>
+    <string name="pro_weight_desc_03">Omdat het lichaam werkt om zichzelf te koelen, is er een toename van de hartslag \n bloedsomloop en stofwisseling gelijkaardig aan sporten.</string>
+    <string name="pro_pain_desc_01">Een combinatie van Midden en Lange IR-golven zorgen voor een natuurlijke verlichting van de pijn \ n door het verminderen van ontstekingen en zwellingen。</string>
+    <string name="pro_pain_desc_02">terwijl Korte IR-golven diep in het weefsel indringen.\n Om zo het herstel van dit weefsel te bevorderen.</string>
+    <string name="pro_pain_desc_03">\nDit allemaal op een gemiddelde, constante intensiteit.\n</string>
+    <string name="pro_infrared_01">Lange IR-golven</string>
+    <string name="pro_infrared_02">Midden IR-golven</string>
+    <string name="pro_infrared_03">Korte IR-golven</string>
+    <string name="pro_start_btn_desc">Druk op\nde knop om\nhet programma\nte starten</string>
+    <string name="pro_desc_suffix01">Midden en Lange IR-golven.</string>
+    <string name="pro_desc_suffix02">Korte en Lange IR-golven.</string>
+    <string name="pro_desc_suffix03">Korte, Midden en Lange  IR-golven.</string>
     
     <!-- program pre-heat -->
-    <string name="pre_title">Sunlighten Pre-Verwarming . . .</string>
-    <string name="pre_time_des">%1$s minuten tot auto shut-off . . .</string>
-    <string name="pre_temp_des">Huidige Cabin Temp: %1$s°</string>
-    <string name="pre_start_program_des">Wilt u naar de start %1$s programma?</string>
-    <string name="pre_start_program_note">Let op: Pre-verwarming is voor persoonlijke voorkeur. De wellness\'s zijn gebaseerd op infrarode golflengten en de oppervlaktetemperatuur van elk individueel verwarmingstoestel, niet omgevingstemperatuur.</string>
+    <string name="pre_title">Sunlighten Voorverwarming . . .</string>
+    <string name="pre_time_des">%1$s minuten tot automatisch afsluiten . . .</string>
+    <string name="pre_temp_des">Huidige Cabine Temp: %1$s°</string>
+    <string name="pre_start_program_des">Wilt u het programma %1$s starten?</string>
+    <string name="pre_start_program_note">Let op: Voorverwarming is volgens persoonlijke voorkeur. De wellness programmas zijn gebaseerd op infrarode golflengten en de oppervlaktetemperatuur van elk individueel verwarmingstoestel, niet omgevingstemperatuur.</string>
     
-    <!-- program create or edit -->
-    <string name="pro_name">programma Naam:</string>
-    <string name="pro_max_time">60 mins(60 min max)</string>
-    <string name="pro_cor_desc">Selecteer de lengte van je sessie, stel vervolgens de kachels in uw sauna. U kunt dan segmenten toe met verschillende verwarming configuraties.</string>
+     <!-- program create or edit -->
+    <string name="pro_name">Programmanaam:</string>
+    <string name="pro_max_time">min (60 min max)</string>
+    <string name="pro_cor_desc">Selecteer de lengte van uw sessie, stel vervolgens de heaters in. U kunt verschillende segmenten toevoegen met verschillende configuraties per heaters.</string>
     <string name="pro_segment_label">Lengte van Segment %1$d:</string>
-    <string name="pro_segment_heater_label">set Kachels</string>
+    <string name="pro_segment_heater_label">Stel heaters in</string>
     <string name="pro_add_segment_label">Segment toevoegen</string>
-    <string name="pro_add_segment_max_error">De totale tijd niet meer dan 60 minuten。 </string>
+    <string name="pro_add_segment_max_error">De totale tijdsduur kan niet meer dan 60 minuten bedragen。 </string>
     <!-- program delete -->
-    <string name="pro_delete_desc">Selecteer het programma te wissen. Opmerking: Programma\'s kunnen worden ingekocht door in de sectie \'Download Program\' vinden het.</string>
-    <string name="pro_delete_program_desc">Een mix van verre en midden infrarood warmte ontworpen om uw kerntemperatuur van het lichaam te verhogen.</string>
-    <string name="pro_delete_program_confir">Weet je zeker dat je het verwijderen.  %1$s ?</string>
+    <string name="pro_delete_desc">Selecteer programma om te verwijderen. Opgelet: programmas kunnen terug verkregen worden in de sectie 'Download programma'.</string>
+    <string name="pro_delete_program_desc">Druk hier om dit programma te wijzigen.</string>
+    <string name="pro_delete_program_confir">Weet u zeker dat u het programma %1$s wil verwijderen?</string>
     
     <!-- helth tracking -->
-    <string name="track_menu_01">Select User</string>
-    <string name="track_menu_02">Create New User</string>
-    <string name="track_menu_03">Edit User</string>
-    <string name="track_menu_04">Delete User</string>
+    <string name="track_menu_01">Selecteer gebruiker</string>
+    <string name="track_menu_02">Creëer nieuwe gebruiker</string>
+    <string name="track_menu_03">Aanpassen gebruiker</string>
+    <string name="track_menu_04">Verwijder gebruiker</string>
     <string name="track_menu_05">Live Data Display</string>
     <string name="track_menu_06">Data Tracking</string>
     
     <!-- helth tracking select user -->
-    <string name="select_user_name_label">Selecteer Huidige gebruiker:</string>
-    <string name="select_user_continue_guest_label">doorgaan zonder\nuser profile</string>
-    <string name="select_user_create_label">Maak nieuw\nuser profile</string>
+    <string name="select_user_name_label">Selecteer huidige gebruiker:</string>
+    <string name="select_user_continue_guest_label">Ga verder zonder \ngebruikers profiel</string>
+    <string name="select_user_create_label">Creër nieuw \ngebruikers profiel</string>
     <!-- helth tracking edit user -->
-    <string name="edit_user_desc">Selecteer punt te bewerken gebruiker, selecteert u de knop om de gebruiker te verwijderen.</string>
+    <string name="edit_user_desc">Selecteer gebruiker om te bewerken, tik op de knop achteraan om de gebruiker te verwijderen.</string>
     
     <!-- helth tracking create user -->
     <string name="user_label">Gebruikersnaam:</string>
-    <string name="user_guest_label">of Doorgaan\nals Gast</string>
-    <string name="user_desc">Vul hieronder gebruiker info aan profiel aan te maken en zorgen voor accurate biofeedback gegevens.</string>
+    <string name="user_guest_label">Of ga door \nals Gast</string>
+    <string name="user_desc">Breng uw gegevens in om een profiel te creëeren om zo accurate \nbiofeedback gegevens te kunnen verschaffen.</string>
     <string name="user_gender_label">Geslacht:</string>
-    <string name="user_gender_male">mannelijk</string>
-    <string name="user_gender_female">vrouwelijk</string>
+    <string name="user_gender_male">Mannelijk</string>
+    <string name="user_gender_female">Vrouwelijk</string>
     <string name="user_birth_label">Geboortedatum:</string>
-    <string name="user_weight_label">gewicht:</string>
+    <string name="user_weight_label">Gewicht:</string>
     <string name="user_weight_unit_label">lbs.</string>
     <string name="user_height_label">hoogte:</string>
     <string name="user_height_prelabel">ft.</string>
     <string name="user_height_suflabel">ln.</string>
     
     <!-- helth tracking data tracking -->
-    <string name="data_title_lable">Bekijk sauna statistieken van de laatste 30 dagen hierna.</string>
-    <string name="data_total_lable">Totaal gebruik van de sauna:</string>
-    <string name="data_average_lable">Gemiddeld sessielengte:</string>
+    <string name="data_title_lable">Bekijk de sauna statistieken van de laatste 30 dagen hieronder.</string>
+    <string name="data_total_lable">Totaal sauna gebruik:</string>
+    <string name="data_average_lable">Gemiddelde sessie duur:</string>
     
-    <!-- Schedule -->
-    <string name="schedule_overtime_error">U kunt een sessie niet te plannen in het verleden.</string>
-    <string name="schedule_new_notice">Voer hieronder sauna sessie-informatie. We raden \ nallowing minstens 30 minuten voorverwarmen tijd.</string>
-    <string name="set_program_time">Start Programma Time:</string>
-    <string name="schedule_new_add_days">Add / Remove Dagen</string>
-    <string name="schedule_new_select_program">Select Program:</string>
-    <string name="schedule_new_pre_heat">Stel Tijd voor Pre-Heat:</string>
+     <!-- Schedule -->
+    <string name="schedule_overtime_error">U kunt een sessie niet plannen in het verleden.</string>
+    <string name="schedule_new_notice">Voer sauna sessie informatie hieronder in. Wij bevelen aan \nom toch 30 minuten voorverwamingstijd te selecteren.</string>
+    <string name="set_program_time">Stel programma tijd in:</string>
+    <string name="schedule_new_add_days">Dagen Toevoegen/Verwijderen</string>
+    <string name="schedule_new_select_program">Selecteer Programma:</string>
+    <string name="schedule_new_pre_heat">Stel voorverwarmingstijd in:</string>
      <!-- Schedule Add Days -->
-    <string name="schedule_add_days_title">Selecteer de dagen die u wilt geplande programma te draaien.</string>
-    <string name="schedule_add_days_title_info">Markeer dagen van de week hieronder:</string>
-    <string name="schedule_add_days_info">(geplande dagen zijn in het groen)</string>
-    <string name="schedule_add_days_sun">zondag</string>
-    <string name="schedule_add_days_mon">maandag</string>
-    <string name="schedule_add_days_tues">dinsdag</string>
-    <string name="schedule_add_days_wed">woensdag</string>
-    <string name="schedule_add_days_thu">donderdag</string>
-    <string name="schedule_add_days_fri">vrijdag</string>
-    <string name="schedule_add_days_sat">zaterdag</string>
+    <string name="schedule_add_days_title">Selecteer de dagen waarin het programma mag opstarten.</string>
+    <string name="schedule_add_days_title_info">Markeer hieronder de dagen van de week:</string>
+    <string name="schedule_add_days_info">(Geplande dagen zijn in het groen gemarkeerd)</string>
+    <string name="schedule_add_days_sun">Zondag</string>
+    <string name="schedule_add_days_mon">Maandag</string>
+    <string name="schedule_add_days_tues">Dinsdag</string>
+    <string name="schedule_add_days_wed">Woensdag</string>
+    <string name="schedule_add_days_thu">Donderdag</string>
+    <string name="schedule_add_days_fri">Vrijdag</string>
+    <string name="schedule_add_days_sat">Zaterdag</string>
     <!-- Schedule Edit -->
-    <string name="schedule_edit_title">Session Geselecteerde: \n%1$s - %2$s</string>
-    <string name="schedule_edit_delete">pers\nbutton naar\nverwijderen\nprogram</string>
-    <string name="schedule_edit_exit">pers\nbutton naar\nedit\nbestaand\nprogram</string>
-    <string name="schedule_edit_return">pers\nbutton naar\nterugkeren naar\ncalendar</string>
+    <string name="schedule_edit_title">Geselecteerde sessie: \n%1$s - %2$s</string>
+    <string name="schedule_edit_delete">Tik om\nhet programma\nte verwijderen</string>
+    <string name="schedule_edit_exit">Tik om\nhet programma\naan te passen</string>
+    <string name="schedule_edit_return">Tik om\nterug te\nkeren naar\nde kalender</string>
     
     <!-- Error Message -->
     <string name="e_no_error">Geen Fout!</string>
-    <string name="e_power_board_no_ack">Het bedieningspaneel is problemen te communiceren met je kracht schakelkast. Gelieve remake van de aansluitingen van de RS-232-kabel aan de onderkant van je voorste muur en powerbox. Als het probleem blijft u de verbinding aan de achterkant van het bedieningspaneel kan controleren.</string>		<!-- E1 -->
-    <string name="e_model">Het serienummer dat u hebt ingevoerd tijdens uw sauna setup niet overeenkomt met de kracht schakelkast die is geïnstalleerd. Vul het juiste serienummer van uw sauna.  </string>					<!-- E2 -->
-    <string name="e_ac_voltage_240v">De sauna u aangekochte ontworpen gebruik 220 ~ 240 volt elektriciteit. De spanning die u hebt geleverd geen adequate spanning een goede werking mogelijk te maken. Houd uw circuit gecontroleerd. U kunt ook de handleiding raadplegen of neem contact op met de klantenservice voor meer informatie. </string>				<!-- E3 -->
-    <string name="e_ac_voltage_120v">De sauna die u hebt gekocht is ontworpen om 120 volt elektriciteit te gebruiken. De spanning die u hebben geleverd te hoog en kan het systeem beschadigen. Houd uw circuit gecontroleerd. U kunt ook de handleiding raadplegen of neem contact op met de klantenservice voor meer informatie.</string>				<!-- E3 01 -->
-    <string name="e_ht_failed">FIR of MIR Verwarming panel mislukt (H1 tot H13 verwarming module). De sensor op uw verwarming paneel is niet het opsporen van de juiste warming-up van het toestel gedurende een bepaalde periode. Als uw sauna is in een koude omgeving een vals positief kan laten zien. Ook als u de spanning dat is iets lager dan normaal de kracht om elke verwarming kan een beetje lager dan verwacht en kan ook leiden tot een vals positief. Controleer de aansluitingen van uw kachel draden aan de onderkant van elke muur. Als het probleem aanhoudt kunt u uw gebruikers handleiding raadplegen voor meer informatie. U zult nog steeds in staat zijn om uw sauna te genieten als deze fout verschijnt.</string>				<!-- E4 -->
-    <string name="e_ntc_failed">Elke muur van uw sauna heeft een scala van temperatuursensoren die controleren en reguleren verwarming kracht om uw sauna sessie optimaliseren. De responstijd op uw sensor is langzamer dan verwacht. Als het probleem aanhoudt kunt u uw gebruikers handleiding raadplegen voor meer informatie. Deze fout is alleen af te sluiten een zeer klein gedeelte van een van je kachels. U zult nog steeds in staat zijn om uw sauna te genieten als deze kwestie verschijnt.</string>				<!-- E5 -->
-    <string name="e_ht_control_unit_failed">Uw sauna heeft een groot aantal van de heater controle circuits die de volledige dynamische functie te creëren. Eén van deze eenheden niet lijkt te reageren zoals verwacht. Uw sauna is nog steeds functioneel en je bent vrij om te blijven gebruiken. Als u hulp voor een meer permanente oplossing zou graag neem contact op met uw klantenservice.</string>	<!-- E6 -->
-    <string name="e_lighting_box_no_ack">Uw lichtregeling board Doest niet lijken te reageren. De voornaamste oorzaak van dit probleem is een losse verbinding met uw verlichting schakelkast. Kijk dan op de platte 4-draads connector die tussen uw belangrijkste power control doos en de kleinere soortgelijke stijl verlichting controle aan de kant.</string>	<!-- E7 -->
+    <string name="e_power_board_no_ack">Power control box reageert niet.\nControleer connectie aan de Power control box.</string>		<!-- E1 -->
+    <string name="e_model">Geselecteerd sauna model komt niet overeen met de componenten.\nControleer het sauna model dat is ingegeven bij de setup.  </string>					<!-- E2 -->
+    <string name="e_ac_voltage_240v">WAARSCHUWING! Ik ben een 240V Volt sauna en u hebt mij aangesloten op een 120V netwerk.\nIk kan niet functioneren tot het voltage is veranderd naar 240V. </string>				<!-- E3 -->
+    <string name="e_ac_voltage_120v">WAARSCHUWING! Ik ben een 120V Volt sauna en u hebt mij aangesloten op een 240V netwerk.\nIk kan niet functioneren tot het voltage is veranderd naar 120V.</string>				<!-- E3 01 -->
+    <string name="e_ht_failed">Verwarmingselement werkt niet.</string>				<!-- E4 -->
+    <string name="e_ntc_failed">Temperatuur sensor werkt niet.</string>				<!-- E5 -->
+    <string name="e_ht_control_unit_failed">Heater control unit faalt. Vervang de power control box.</string>	<!-- E6 -->
+    <string name="e_lighting_box_no_ack">Light control box reageert niet. \n controleer de connecties.</string>	<!-- E7 -->
 
     <!-- usb install -->
-   	<string name="usb_install_now">installeren</string>
-   	<string name="usb_install_info">USB ontdekt een nieuwe versie beschikbaar is, wil je nu installeren?</string>
-   	<string name="usb_app_version">versie:</string>
+   	<string name="usb_install_now">Installeren</string>
+   	<string name="usb_install_info">Nieuwe versie gedetecteerd via USB %1$s, nu downloaden?</string>
+   	<string name="usb_app_version">Versie:</string>
    	<string name="usb_app_md5">MD5:</string>
    	<!-- pin code display -->
-   	<string name="pin_activity">pincode:</string>
+   	<string name="pin_activity">Pincode:</string>
     
 </resources>
 
