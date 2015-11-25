@@ -206,13 +206,13 @@
     <string name="pro_menu_08">Supprimer programme</string>
     <string name="pro_menu_09">Adadpter programme</string>
     <string name="pro_menu_10">Créez programme</string>
-    <string name="pro_detox_desc_01">Démaragge avec ondes moyennes et longues à une intensité élevée pour augmenter \nla température du corps.</string>
+    <string name="pro_detox_desc_01">Démaragge avec ondes moyennes et longues à une intensité élevée pour augmenter la température du corps.</string>
     <string name="pro_detox_desc_02">\n Celles-ci sont ensuite réduites à un niveau confortable de faible intensité.\n</string>
-    <string name="pro_detox_desc_03">La combinaison des ondes moyennes et longues améliore la circulation sanguine \nafin d'éliminer les toxines au niveau cellulaire.</string>
-    <string name="pro_relax_desc_01">Les ondes infrarouges longues, moyennes et courtes apportent une relaxation intense \nlorsque les muscles relaxent par la basse et confortable intensité.</string>
+    <string name="pro_detox_desc_03">La combinaison des ondes moyennes et longues améliore la circulation sanguine afin d'éliminer les toxines au niveau cellulaire.</string>
+    <string name="pro_relax_desc_01">Les ondes infrarouges longues, moyennes et courtes apportent une relaxation intense lorsque les muscles relaxent par la basse et confortable intensité.</string>
     <string name="pro_relax_desc_02">\nAinsi une diminution générale du stress se fait lors de l'utilisation régulière.\n</string>
     <string name="pro_anti_desc_01">Un niveau d'intensité faible et constant d'ondes longues et courtes \npénètrent dans le tissu de la peau et améliorent ainsi divers problèmes de peau.</string>
-    <string name="pro_anti_desc_02">Les ondes courtes améliorent la couleur générale de la peau, son élasticité et sa fermeté. \n On crée ainsi un effet rajeunissant.</string>
+    <string name="pro_anti_desc_02">Les ondes courtes améliorent la couleur générale de la peau, son élasticité et sa fermeté. On crée ainsi un effet rajeunissant.</string>
     <string name="pro_cardio_desc_01">Toutes les ondes démarrent à haute intensité \n afin de stimuler la rhytme cardiaque et la circulation sanguine.</string>
     <string name="pro_cardio_desc_02">\nEnsuite le niveau diminue afin de garder ce rhytme cardiaque.\n</string>
     <string name="pro_cardio_desc_03">\nLa circulation sanguine s'améliore ce qui apporte une bonne tension artérielle.\n</string>
@@ -222,9 +222,9 @@
     <string name="pro_pain_desc_01">Un mélange d'ondes infrarouges moyennes et longues soulagent d'une manière naturelle les douleurs \n en réduisant les inflammations et les enflures.</string>
     <string name="pro_pain_desc_02">Les ondes courtes, elles, pénètrent le tissu en profondance \nafin d'améliorer la réparation de clui-ci.</string>
     <string name="pro_pain_desc_03">Tout cela à une intensité moyenne et constante.\n</string>
-    <string name="pro_infrared_01">Ondes infrarouges longues</string>
-    <string name="pro_infrared_02">Ondes infrarouges moyennes</string>
-    <string name="pro_infrared_03">Ondes infrarouges courtes</string>
+    <string name="pro_infrared_01">Ondes longues</string>
+    <string name="pro_infrared_02">Ondes moyennes</string>
+    <string name="pro_infrared_03">Ondes courtes</string>
     <string name="pro_start_btn_desc">appuyez sur\nle bouton\npour commencer\nle programme</string>
     <string name="pro_desc_suffix01">Ondes moyennes et longues.</string>
     <string name="pro_desc_suffix02">Ondes courtes et longues.</string>
@@ -241,7 +241,7 @@
     <string name="pro_max_time">Min (60 min max)</string>
     <string name="pro_cor_desc">Veuillez entrer les informations de session du sauna ci-dessous. Nous vous recommandons d'autoriser 30 minutes de temps de pré-chauffage..</string>
     <string name="pro_segment_label">Longueur du segment %1$d:</string>
-    <string name="pro_segment_heater_label">Reglage des appareils de chauffage </string>
+    <string name="pro_segment_heater_label">Reglage de chauffage </string>
     <string name="pro_add_segment_label">Ajouter segment</string>
     <string name="pro_add_segment_max_error">Le temps total ne peut pas dépasser 60 minutes.</string>
     <!-- program delete -->
