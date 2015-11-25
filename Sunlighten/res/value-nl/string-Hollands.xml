@@ -198,21 +198,21 @@
    <string name="diagnostic_spinner_check">Ja</string>
    <string name="diagnostic_result">Sauna scannen compleet:</string>
    
-   <!-- program -->
-   <string name="pro_menu_01">Detoxificatie</string>
-   <string name="pro_menu_02">Relaxatie</string>
-   <string name="pro_menu_03">Huidgezondheid</string>
-   <string name="pro_menu_04">Cardiovasculair</string>
-   <string name="pro_menu_05">Gewichtsverlies</string>
-   <string name="pro_menu_06">Pijn Bestrijding</string>
+   <!-- program -->  
+   <string name="pro_menu_01">Gewichtsverlies</string>
+   <string name="pro_menu_02">Cardiovasculair</string>
+   <string name="pro_menu_03">Detoxificatie</string>
+   <string name="pro_menu_04">Pijn Bestrijding</string>
+   <string name="pro_menu_05">Relaxatie</string>
+   <string name="pro_menu_06">Huidgezondheid</string>
    <string name="pro_menu_07">Aangepast</string>
    <string name="pro_menu_08">Verwijder Programma</string>
    <string name="pro_menu_09">Verander Programma</string>
    <string name="pro_menu_10">Creëer Programma</string>
    <string name="pro_detox_desc_01">Midden en Lange IR-golven starten aan een hoge intensiteit \n om de lichaamstemperatuur te verhogen.</string>
    <string name="pro_detox_desc_02">\n Daarna worden deze gereduceerd tot een laag comfortabel niveau.</string>
-   <string name="pro_detox_desc_03">De combinatie van deze Midden en Lange IR-golven verbetert de bloedsomloop, \n om zo de gifstoffen op cellulair niveau uit het lichaam te drijven.</string>
-   <string name="pro_relax_desc_01">Lange, Midden en Korte IR-golven veroorzaken een intense ontspanning als ze \n spierspanningen verhelpen bij een lage, comfortabele intensiteit.</string>
+   <string name="pro_detox_desc_03">De combinatie van deze Midden en Lange IR-golven verbetert de bloedsomloop, om zo de gifstoffen op cellulair niveau uit het lichaam te drijven.</string>
+   <string name="pro_relax_desc_01">Lange, Midden en Korte IR-golven veroorzaken een intense ontspanning als ze spierspanningen verhelpen bij een lage, comfortabele intensiteit.</string>
    <string name="pro_relax_desc_02">\nZo creëren deze een algemene verlaging van stress bij regelmatig gebruik.\n</string>
    <string name="pro_anti_desc_01">Een lage en constante intensiteit van Lange en Korte IR-golven \n Penetreren het huidweefsel om zo verscheidene huidproblemen te verhelpen.</string>
    <string name="pro_anti_desc_02">Korte IR-golven bevorderen de gehele huidskleur, elasticiteit en stevigheid \n En gaan zo een anti-aging effect creëren</string>
@@ -221,8 +221,8 @@
    <string name="pro_cardio_desc_03">\nDe bloedsomloop wordt verbeterd, wat resulteert in een gezondere bloeddruk\n</string>
    <string name="pro_weight_desc_01">Midden en Lange IR-golven starten aan een hoge intensiteit \n om zo het cardiovasculaire systeem te stimuleren.</string>
    <string name="pro_weight_desc_02">\nDaarna wordt dit gereduceerd tot een gemiddeld niveau\n</string>
-   <string name="pro_weight_desc_03">Omdat het lichaam werkt om zichzelf te koelen, is er een toename van de hartslag \n bloedsomloop en stofwisseling gelijkaardig aan sporten.</string>
-   <string name="pro_pain_desc_01">Een combinatie van Midden en Lange IR-golven zorgen voor een natuurlijke verlichting van de pijn \ n door het verminderen van ontstekingen en zwellingen。</string>
+   <string name="pro_weight_desc_03">Omdat het lichaam werkt om zichzelf te koelen, is er een toename van de hartslag, bloedsomloop en stofwisseling gelijkaardig aan sporten.</string>
+   <string name="pro_pain_desc_01">Een combinatie van Midden en Lange IR-golven zorgen voor een natuurlijke verlichting van de pijn door het verminderen van ontstekingen en zwellingen。</string>
    <string name="pro_pain_desc_02">terwijl Korte IR-golven diep in het weefsel indringen.\n Om zo het herstel van dit weefsel te bevorderen.</string>
    <string name="pro_pain_desc_03">\nDit allemaal op een gemiddelde, constante intensiteit.\n</string>
    <string name="pro_infrared_01">Lange IR-golven</string>
